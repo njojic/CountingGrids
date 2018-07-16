@@ -1,0 +1,1024 @@
+a	the first letter of the modern english alphabet .	https://en.wikipedia.org/wiki/a
+a	any of the speech sounds represented by the letter a .	https://en.wikipedia.org/wiki/a
+are	a metric unit of area equal to 100 square meters (119 .6 square yards) .	https://en.wikipedia.org/wiki/are
+i	the ninth letter of the modern english alphabet .	https://en.wikipedia.org/wiki/i
+i	any of the speech sounds represented by the letter i .	https://en.wikipedia.org/wiki/i
+article	an individual thing or element of a class ; a particular object or item .	https://en.wikipedia.org/wiki/article
+article	a particular section or item of a series in a written document , as in a contract , constitution , or treaty .	https://en.wikipedia.org/wiki/article
+school	an institution for the instruction of children or people under college age .	https://en.wikipedia.org/wiki/school
+school	an institution for instruction in a skill or business .	https://en.wikipedia.org/wiki/school
+first	the ordinal number matching the number one in a series .	https://en.wikipedia.org/wiki/first
+first	the one coming , occurring , or ranking before or above all others .	https://en.wikipedia.org/wiki/first
+university	an institution for higher learning with teaching and research facilities constituting a graduate school and professional schools that award master's degrees and doctorates and an undergraduate division that awards bachelor's degrees .	https://en.wikipedia.org/wiki/university
+university	the buildings and grounds of such an institution .	https://en.wikipedia.org/wiki/university
+city	a center of population , commerce , and culture ; a town of significant size and importance .	https://en.wikipedia.org/wiki/city
+city	an incorporated municipality in the united states with definite boundaries and legal powers set forth in a charter granted by the state .	https://en.wikipedia.org/wiki/city
+people	humans considered as a group or in indefinite numbers .	https://en.wikipedia.org/wiki/people
+people	a body of persons living in the same country under one national government ; a nationality .	https://en.wikipedia.org/wiki/people
+part	a portion , division , piece , or segment of a whole .	https://en.wikipedia.org/wiki/part
+part	any of several equal portions or fractions that can constitute a whole or into which a whole can be divided .	https://en.wikipedia.org/wiki/part
+team	sports & games : a group on the same side , as in a game .	https://en.wikipedia.org/wiki/team
+team	a group organized to work together .	https://en.wikipedia.org/wiki/team
+work	physical or mental effort or activity directed toward the production or accomplishment of something .	https://en.wikipedia.org/wiki/work
+work	a job ; employment .	https://en.wikipedia.org/wiki/work
+number	mathematics : a member of the set of positive integers ; one of a series of symbols of unique meaning in a fixed order that can be derived by counting .	https://en.wikipedia.org/wiki/number
+number	mathematics : a member of any of the further sets of mathematical objects , such as negative integers and real numbers .	https://en.wikipedia.org/wiki/number
+series	a number of objects or events arranged or coming one after the other in succession .	https://en.wikipedia.org/wiki/series
+series	a set of stamps , coins , or currency issued in a particular period .	https://en.wikipedia.org/wiki/series
+year	the period of time during which earth completes a single revolution around the sun , consisting of 365 days , 5 hours , 49 minutes , and 12 seconds of mean solar time .	https://en.wikipedia.org/wiki/year
+year	a period approximately equal to a year in other calendars .	https://en.wikipedia.org/wiki/year
+area	a roughly bounded part of the space on a surface ; a region .	https://en.wikipedia.org/wiki/area
+area	a surface , especially an open , unoccupied piece of ground .	https://en.wikipedia.org/wiki/area
+well	a deep hole or shaft sunk into the earth to obtain water , oil , gas , or brine .	https://en.wikipedia.org/wiki/well
+well	a container or reservoir for a liquid , such as ink .	https://en.wikipedia.org/wiki/well
+name	a word or words by which an entity is designated and distinguished from others .	https://en.wikipedia.org/wiki/name
+name	a word or group of words used to describe or evaluate , often disparagingly .	https://en.wikipedia.org/wiki/name
+two	the cardinal number equal to the sum of 1 + 1 .	https://en.wikipedia.org/wiki/two
+two	the second in a set or sequence .	https://en.wikipedia.org/wiki/two
+company	a group of persons .	https://en.wikipedia.org/wiki/company
+company	one's companions or associates .	https://en.wikipedia.org/wiki/company
+group	an assemblage of persons or objects gathered or located together ; an aggregation .	https://en.wikipedia.org/wiki/group
+group	two or more figures that make up a unit or design , as in sculpture .	https://en.wikipedia.org/wiki/group
+war	a state of open , armed , often prolonged conflict carried on between nations , states , or parties .	https://en.wikipedia.org/wiki/war
+war	the period of such conflict .	https://en.wikipedia.org/wiki/war
+album	a book with blank pages for the insertion and preservation of collections , as of stamps or photographs .	https://en.wikipedia.org/wiki/album
+album	a phonograph record , especially a long-playing record stored in a slipcase .	https://en.wikipedia.org/wiki/album
+film	a thin skin or membrane .	https://en.wikipedia.org/wiki/film
+film	a thin , opaque , abnormal coating on the cornea of the eye .	https://en.wikipedia.org/wiki/film
+system	a group of interacting , interrelated , or interdependent elements forming a complex whole .	https://en.wikipedia.org/wiki/system
+system	a functionally related group of elements , especially:	https://en.wikipedia.org/wiki/system
+state	a condition or mode of being , as with regard to circumstances .	https://en.wikipedia.org/wiki/state
+state	a condition of being in a stage or form , as of structure , growth , or development .	https://en.wikipedia.org/wiki/state
+district	a division of an area , as for administrative purposes .	https://en.wikipedia.org/wiki/district
+district	a region or locality marked by a distinguishing feature .	https://en.wikipedia.org/wiki/district
+world	the earth .	https://en.wikipedia.org/wiki/world
+world	the universe .	https://en.wikipedia.org/wiki/world
+season	one of the four natural divisions of the year , spring , summer , fall , and winter , in the north and south temperate zones .	https://en.wikipedia.org/wiki/season
+season	the two divisions of the year , rainy and dry , in some tropical regions .	https://en.wikipedia.org/wiki/season
+being	the state or quality of having existence .	https://en.wikipedia.org/wiki/being
+being	something , such as an object , an idea , or a symbol , that exists , is thought to exist , or is represented as existing .	https://en.wikipedia.org/wiki/being
+county	the largest administrative division of most states in the united states .	https://en.wikipedia.org/wiki/county
+county	a territorial division exercising administrative , judicial , and political functions in great britain and ireland .	https://en.wikipedia.org/wiki/county
+page	a leaf or one side of a leaf , as of a book , letter , newspaper , or manuscript .	https://en.wikipedia.org/wiki/page
+page	the writing or printing on one side of a leaf .	https://en.wikipedia.org/wiki/page
+member	a distinct part of a whole , especially:	https://en.wikipedia.org/wiki/member
+member	linguistics : a syntactic unit of a sentence ; a clause .	https://en.wikipedia.org/wiki/member
+end	either extremity of something that has length .	https://en.wikipedia.org/wiki/end
+end	the outside or extreme edge or physical limit ; a boundary .	https://en.wikipedia.org/wiki/end
+house	a structure serving as a dwelling for one or more persons , especially for a family .	https://en.wikipedia.org/wiki/house
+house	a household or family .	https://en.wikipedia.org/wiki/house
+game	an activity providing entertainment or amusement ; a pastime .	https://en.wikipedia.org/wiki/game
+game	a competitive activity or sport in which players contend with each other according to a set of rules .	https://en.wikipedia.org/wiki/game
+church	a building for public , especially christian worship .	https://en.wikipedia.org/wiki/church
+church	the company of all christians regarded as a spiritual body .	https://en.wikipedia.org/wiki/church
+came	a slender grooved lead bar used to hold together the panes in stained glass or latticework windows .	https://en.wikipedia.org/wiki/came
+station	a place or position where a person or thing stands or is assigned to stand ; a post .	https://en.wikipedia.org/wiki/station
+station	an area where a person is assigned to work .	https://en.wikipedia.org/wiki/station
+party	a social gathering especially for pleasure or amusement .	https://en.wikipedia.org/wiki/party
+party	a group of people who have gathered to participate in an activity .	https://en.wikipedia.org/wiki/party
+family	a fundamental social group in society typically consisting of one or two parents and their children .	https://en.wikipedia.org/wiki/family
+family	two or more people who share goals and values , have long-term commitments to one another , and reside usually in the same dwelling place .	https://en.wikipedia.org/wiki/family
+town	a population center that is larger than a village and smaller than a city .	https://en.wikipedia.org/wiki/town
+town	a territorial and political unit governed by a town meeting , especially in new england .	https://en.wikipedia.org/wiki/town
+way	a road , path , or highway affording passage from one place to another .	https://en.wikipedia.org/wiki/way
+way	an opening affording passage .	https://en.wikipedia.org/wiki/way
+line	mathematics : a geometric figure formed by a point moving along a fixed direction and the reverse direction .	https://en.wikipedia.org/wiki/line
+line	a thin continuous mark , as that made by a pen , pencil , or brush applied to a surface .	https://en.wikipedia.org/wiki/line
+league	an association of states , organizations , or individuals for common action ; an alliance .	https://en.wikipedia.org/wiki/league
+league	sports : an association of teams or clubs that compete chiefly among themselves .	https://en.wikipedia.org/wiki/league
+college	an institution of higher learning that grants the bachelor's degree in liberal arts or science or both .	https://en.wikipedia.org/wiki/college
+college	an undergraduate division or school of a university offering courses and granting degrees in a particular field .	https://en.wikipedia.org/wiki/college
+club	a stout heavy stick , usually thicker at one end , suitable for use as a weapon ; a cudgel .	https://en.wikipedia.org/wiki/club
+club	sports : an implement used in some games to drive a ball , especially a stick with a protruding head used in golf .	https://en.wikipedia.org/wiki/club
+government	the act or process of governing , especially the control and administration of public policy in a political unit .	https://en.wikipedia.org/wiki/government
+government	the office , function , or authority of a governing individual or body .	https://en.wikipedia.org/wiki/government
+history	a usually chronological record of events , as of the life or development of a people or institution , often including an explanation of or commentary on those events .	https://en.wikipedia.org/wiki/history
+history	a formal written account of related natural phenomena .	https://en.wikipedia.org/wiki/history
+place	an area with definite or indefinite boundaries ; a portion of space .	https://en.wikipedia.org/wiki/place
+place	room or space , especially adequate space .	https://en.wikipedia.org/wiki/place
+century	a period of 100 years .	https://en.wikipedia.org/wiki/century
+century	each of the successive periods of 100 years before or since the advent of the christian era .	https://en.wikipedia.org/wiki/century
+day	the period of light between dawn and nightfall ; the interval from sunrise to sunset .	https://en.wikipedia.org/wiki/day
+day	the 24-hour period during which the earth completes one rotation on its axis .	https://en.wikipedia.org/wiki/day
+band	a thin strip of flexible material used to encircle and bind one object or to hold a number of objects together .	https://en.wikipedia.org/wiki/band
+band	a strip or stripe that contrasts with something else in color , texture , or material .	https://en.wikipedia.org/wiki/band
+form	the shape and structure of an object .	https://en.wikipedia.org/wiki/form
+form	the body or outward appearance of a person or an animal considered separately from the face or head ; figure .	https://en.wikipedia.org/wiki/form
+building	something that is built , as for human habitation ; a structure .	https://en.wikipedia.org/wiki/building
+building	the act , process , art , or occupation of constructing .	https://en.wikipedia.org/wiki/building
+need	a condition or situation in which something is required or wanted .	https://en.wikipedia.org/wiki/need
+need	something required or wanted ; a requisite .	https://en.wikipedia.org/wiki/need
+list	a series of names , words , or other items written , printed , or imagined one after the other .	https://en.wikipedia.org/wiki/list
+list	a considerable number ; a long series .	https://en.wikipedia.org/wiki/list
+center	a point or place that is equally distant from the sides or outer boundaries of something ; the middle .	https://en.wikipedia.org/wiki/center
+center	a point equidistant from the vertices of a regular polygon .	https://en.wikipedia.org/wiki/center
+point	a sharp or tapered end .	https://en.wikipedia.org/wiki/point
+point	an object having a sharp or tapered end .	https://en.wikipedia.org/wiki/point
+version	a description or account from one point of view , especially as opposed to another .	https://en.wikipedia.org/wiki/version
+version	a translation from another language .	https://en.wikipedia.org/wiki/version
+song	music : a brief composition written or adapted for singing .	https://en.wikipedia.org/wiki/song
+song	music : the act or art of singing .	https://en.wikipedia.org/wiki/song
+player	one that plays , especially:	https://en.wikipedia.org/wiki/player
+player	one who participates in a game or sport .	https://en.wikipedia.org/wiki/player
+river	a large natural stream of water emptying into an ocean , lake , or other body of water and usually fed along its course by converging tributaries .	https://en.wikipedia.org/wiki/river
+river	a stream or abundant flow .	https://en.wikipedia.org/wiki/river
+will	the mental faculty by which one deliberately chooses or decides upon a course of action .	https://en.wikipedia.org/wiki/will
+will	the act of exercising the will .	https://en.wikipedia.org/wiki/will
+village	a small group of dwellings in a rural area , usually ranking in size between a hamlet and a town .	https://en.wikipedia.org/wiki/village
+village	in some u .s .	https://en.wikipedia.org/wiki/village
+book	a set of written , printed , or blank pages fastened along one side and encased between protective covers .	https://en.wikipedia.org/wiki/book
+book	a printed or written literary work .	https://en.wikipedia.org/wiki/book
+service	employment in duties or work for another , as for a government .	https://en.wikipedia.org/wiki/service
+service	a government branch or department and its employees .	https://en.wikipedia.org/wiki/service
+music	the art of arranging sounds in time so as to produce a continuous , unified , and evocative composition , as through melody , harmony , rhythm , and timbre .	https://en.wikipedia.org/wiki/music
+music	vocal or instrumental sounds possessing a degree of melody , harmony , or rhythm .	https://en.wikipedia.org/wiki/music
+north	the direction along a meridian 90   counterclockwise from east ; the direction to the left of sunrise .	https://en.wikipedia.org/wiki/north
+north	the cardinal point on the mariner's compass located at 0   .	https://en.wikipedia.org/wiki/north
+south	the direction along a meridian 90   clockwise from east ; the direction to the right of sunrise .	https://en.wikipedia.org/wiki/south
+south	the cardinal point on the mariner's compass 180   clockwise from due north and directly opposite north .	https://en.wikipedia.org/wiki/south
+species	biology : a fundamental category of taxonomic classification , ranking below a genus or subgenus and consisting of related organisms capable of interbreeding .	https://en.wikipedia.org/wiki/species
+son	one's male child .	https://en.wikipedia.org/wiki/son
+son	a male descendant .	https://en.wikipedia.org/wiki/son
+community	a group of people living in the same locality and under the same government .	https://en.wikipedia.org/wiki/community
+park	an area of land set aside for public use ,  .	https://en.wikipedia.org/wiki/park
+park	a piece of land with few or no buildings within or adjoining a town , maintained for recreational and ornamental purposes .	https://en.wikipedia.org/wiki/park
+while	a period of time .	https://en.wikipedia.org/wiki/while
+while	the time , effort , or trouble taken in doing something .	https://en.wikipedia.org/wiki/while
+site	the place where a structure or group of structures was , is , or is to be located .	https://en.wikipedia.org/wiki/site
+site	the place or setting of something .	https://en.wikipedia.org/wiki/site
+association	the act of associating or the state of being associated .	https://en.wikipedia.org/wiki/association
+association	an organized body of people who have an interest , activity , or purpose in common ; a society .	https://en.wikipedia.org/wiki/association
+road	an open , generally public way for the passage of vehicles , people , and animals .	https://en.wikipedia.org/wiki/road
+road	the surface of a road ; a roadbed .	https://en.wikipedia.org/wiki/road
+program	a listing of the order of events and other pertinent information for a public presentation .	https://en.wikipedia.org/wiki/program
+program	the presentation itself .	https://en.wikipedia.org/wiki/program
+three	the cardinal number equal to 2 + 1 .	https://en.wikipedia.org/wiki/three
+three	the third in a set or sequence .	https://en.wikipedia.org/wiki/three
+side	mathematics : a line bounding a plane figure .	https://en.wikipedia.org/wiki/side
+side	mathematics : a surface bounding a solid figure .	https://en.wikipedia.org/wiki/side
+act	the process of doing or performing something .	https://en.wikipedia.org/wiki/act
+act	something done or performed ; a deed .	https://en.wikipedia.org/wiki/act
+information	knowledge derived from study , experience , or instruction .	https://en.wikipedia.org/wiki/information
+information	knowledge of specific events or situations that has been gathered or received by communication ; intelligence or news .	https://en.wikipedia.org/wiki/information
+man	an adult male human .	https://en.wikipedia.org/wiki/man
+man	a human regardless of sex or age ; a person .	https://en.wikipedia.org/wiki/man
+army	a large body of people organized and trained for land warfare .	https://en.wikipedia.org/wiki/army
+army	the entire military land forces of a country .	https://en.wikipedia.org/wiki/army
+council	an assembly of persons called together for consultation , deliberation , or discussion .	https://en.wikipedia.org/wiki/council
+council	a body of people elected or appointed to serve as administrators , legislators , or advisors .	https://en.wikipedia.org/wiki/council
+case	an instance of something ; an occurrence ; an example .	https://en.wikipedia.org/wiki/case
+case	an occurrence of a disease or disorder .	https://en.wikipedia.org/wiki/case
+division	the act or process of dividing .	https://en.wikipedia.org/wiki/division
+division	the state of having been divided .	https://en.wikipedia.org/wiki/division
+back	the posterior portion of the trunk of the human body between the neck and the pelvis ; the dorsum .	https://en.wikipedia.org/wiki/back
+back	the analogous dorsal region in other animals .	https://en.wikipedia.org/wiki/back
+west	the cardinal point on the mariner's compass 270   clockwise from due north and directly opposite east .	https://en.wikipedia.org/wiki/west
+west	the direction opposite to the direction of the earth's axial rotation .	https://en.wikipedia.org/wiki/west
+department	a distinct , usually specialized division of a large organization , especially:	https://en.wikipedia.org/wiki/department
+department	a principal administrative division of a government .	https://en.wikipedia.org/wiki/department
+second	a unit of time equal to one sixtieth of a minute .	https://en.wikipedia.org/wiki/second
+second	the time needed for a cesium-133 atom to perform 9 ,192 ,631 ,770 complete oscillations .	https://en.wikipedia.org/wiki/second
+region	a large , usually continuous segment of a surface or space ; area .	https://en.wikipedia.org/wiki/region
+region	a large , indefinite portion of the earth's surface .	https://en.wikipedia.org/wiki/region
+force	the capacity to do work or cause physical change ; energy , strength , or active power .	https://en.wikipedia.org/wiki/force
+force	power made operative against resistance ; exertion .	https://en.wikipedia.org/wiki/force
+title	an identifying name given to a book , play , film , musical composition , or other work .	https://en.wikipedia.org/wiki/title
+title	a general or descriptive heading , as of a book chapter .	https://en.wikipedia.org/wiki/title
+period	an interval of time characterized by the occurrence of a certain condition , event , or phenomenon .	https://en.wikipedia.org/wiki/period
+period	an interval of time characterized by the prevalence of a specified culture , ideology , or technology .	https://en.wikipedia.org/wiki/period
+home	a place where one lives ; a residence .	https://en.wikipedia.org/wiki/home
+home	the physical structure within which one lives , such as a house or apartment .	https://en.wikipedia.org/wiki/home
+population	all of the people inhabiting a specified area .	https://en.wikipedia.org/wiki/population
+population	the total number of such people .	https://en.wikipedia.org/wiki/population
+president	one appointed or elected to preside over an organized body of people , such as an assembly or meeting .	https://en.wikipedia.org/wiki/president
+president	the chief executive of a republic .	https://en.wikipedia.org/wiki/president
+death	the act of dying ; termination of life .	https://en.wikipedia.org/wiki/death
+death	the state of being dead .	https://en.wikipedia.org/wiki/death
+section	one of several components ; a piece .	https://en.wikipedia.org/wiki/section
+section	a subdivision of a written work .	https://en.wikipedia.org/wiki/section
+court	an extent of open ground partially or completely enclosed by walls or buildings ; a courtyard .	https://en.wikipedia.org/wiki/court
+court	a short street , especially a wide alley walled by buildings on three sides .	https://en.wikipedia.org/wiki/court
+project	a plan or proposal ; a scheme .	https://en.wikipedia.org/wiki/project
+project	an undertaking requiring concerted effort .	https://en.wikipedia.org/wiki/project
+men	plural of man .	https://en.wikipedia.org/wiki/men
+society	the totality of social relationships among humans .	https://en.wikipedia.org/wiki/society
+society	a group of humans broadly distinguished from other groups by mutual interests , participation in characteristic relationships , shared institutions , and a common culture .	https://en.wikipedia.org/wiki/society
+going	departure .	https://en.wikipedia.org/wiki/going
+going	the condition underfoot as it affects one's headway in walking or riding .	https://en.wikipedia.org/wiki/going
+island	a land mass , especially one smaller than a continent , entirely surrounded by water .	https://en.wikipedia.org/wiki/island
+island	something resembling an island , especially in being isolated or surrounded ,  .	https://en.wikipedia.org/wiki/island
+father	a male person whose sperm unites with an egg , resulting in the conception of a child .	https://en.wikipedia.org/wiki/father
+father	a man who adopts a child .	https://en.wikipedia.org/wiki/father
+east	the cardinal point on the mariner's compass 90   clockwise from due north and directly opposite west .	https://en.wikipedia.org/wiki/east
+east	the direction of the earth's axial rotation .	https://en.wikipedia.org/wiki/east
+age	the length of time that one has existed ; duration of life .	https://en.wikipedia.org/wiki/age
+age	the time of life when a person becomes qualified to assume certain civil and personal rights and responsibilities , usually at 18 or 21 years ; legal age .	https://en.wikipedia.org/wiki/age
+source	the point at which something springs into being or from which it derives or is obtained .	https://en.wikipedia.org/wiki/source
+source	the point of origin , such as a spring , of a stream or river .	https://en.wikipedia.org/wiki/source
+much	a large quantity or amount .	https://en.wikipedia.org/wiki/much
+career	a chosen pursuit ; a profession or occupation .	https://en.wikipedia.org/wiki/career
+career	the general course or progression of one's working life or one's professional achievements .	https://en.wikipedia.org/wiki/career
+order	a condition of logical or comprehensible arrangement among the separate elements of a group .	https://en.wikipedia.org/wiki/order
+order	a condition of methodical or prescribed arrangement among component parts such that proper functioning or appearance is achieved .	https://en.wikipedia.org/wiki/order
+country	a nation or state .	https://en.wikipedia.org/wiki/country
+country	the territory of a nation or state ; land .	https://en.wikipedia.org/wiki/country
+championship	the position or title of a winner .	https://en.wikipedia.org/wiki/championship
+championship	defense or support ; advocacy .	https://en.wikipedia.org/wiki/championship
+making	the act of one that makes .	https://en.wikipedia.org/wiki/making
+making	the process of coming into being .	https://en.wikipedia.org/wiki/making
+u	the 21st letter of the modern english alphabet .	https://en.wikipedia.org/wiki/u
+u	any of the speech sounds represented by the letter u .	https://en.wikipedia.org/wiki/u
+hall	a corridor or passageway in a building .	https://en.wikipedia.org/wiki/hall
+hall	a large entrance room or vestibule in a building ; a lobby .	https://en.wikipedia.org/wiki/hall
+king	a male sovereign .	https://en.wikipedia.org/wiki/king
+king	one that is supreme or preeminent in a particular group , category , or sphere .	https://en.wikipedia.org/wiki/king
+children	plural of child .	https://en.wikipedia.org/wiki/children
+development	the act of developing .	https://en.wikipedia.org/wiki/development
+development	the state of being developed .	https://en.wikipedia.org/wiki/development
+position	a place or location .	https://en.wikipedia.org/wiki/position
+position	the right or appropriate place .	https://en.wikipedia.org/wiki/position
+office	a place in which business , clerical , or professional activities are conducted .	https://en.wikipedia.org/wiki/office
+law	a rule of conduct or procedure established by custom , agreement , or authority .	https://en.wikipedia.org/wiki/law
+law	the body of rules and principles governing the affairs of a community and enforced by a political authority ; a legal system .	https://en.wikipedia.org/wiki/law
+level	relative position or rank on a scale .	https://en.wikipedia.org/wiki/level
+level	a relative degree , as of achievement , intensity , or concentration .	https://en.wikipedia.org/wiki/level
+story	an account or recital of an event or a series of events , either true or fictitious ,  .	https://en.wikipedia.org/wiki/story
+story	an account or report regarding the facts of an event or group of events .	https://en.wikipedia.org/wiki/story
+election	the act or power of electing .	https://en.wikipedia.org/wiki/election
+election	the fact of being elected .	https://en.wikipedia.org/wiki/election
+board	a long flat slab of sawed lumber ; a plank .	https://en.wikipedia.org/wiki/board
+board	a flat piece of wood or similarly rigid material adapted for a special use .	https://en.wikipedia.org/wiki/board
+director	one that supervises , controls , or manages .	https://en.wikipedia.org/wiki/director
+director	a member of a group of persons chosen to control or govern the affairs of an institution or corporation .	https://en.wikipedia.org/wiki/director
+committee	a group of people officially delegated to perform a function , such as investigating , considering , reporting , or acting on a matter .	https://en.wikipedia.org/wiki/committee
+committee	archaic : a person to whom a trust or charge is committed .	https://en.wikipedia.org/wiki/committee
+street	a public way or thoroughfare in a city or town , usually with a sidewalk or sidewalks .	https://en.wikipedia.org/wiki/street
+street	such a public way considered apart from the sidewalks .	https://en.wikipedia.org/wiki/street
+thought	the act or process of thinking ; cogitation .	https://en.wikipedia.org/wiki/thought
+language	communication of thoughts and feelings through a system of arbitrary signals , such as voice sounds , gestures , or written symbols .	https://en.wikipedia.org/wiki/language
+language	such a system including its rules for combining its components , such as words .	https://en.wikipedia.org/wiki/language
+cup	a small open container , usually with a flat bottom and a handle , used for drinking .	https://en.wikipedia.org/wiki/cup
+cup	such a container and its contents .	https://en.wikipedia.org/wiki/cup
+battle	an encounter between opposing forces .	https://en.wikipedia.org/wiki/battle
+battle	armed fighting ; combat .	https://en.wikipedia.org/wiki/battle
+event	something that takes place ; an occurrence .	https://en.wikipedia.org/wiki/event
+event	a significant occurrence or happening .	https://en.wikipedia.org/wiki/event
+saw	any of various tools , either hand-operated or power-driven , having a thin metal blade or disk with a sharp , usually toothed edge , used for cutting wood , metal , or other hard materials .	https://en.wikipedia.org/wiki/saw
+field	a broad , level , open expanse of land .	https://en.wikipedia.org/wiki/field
+field	a meadow .	https://en.wikipedia.org/wiki/field
+person	a living human .	https://en.wikipedia.org/wiki/person
+person	an individual of specified character .	https://en.wikipedia.org/wiki/person
+power	the ability or capacity to perform or act effectively .	https://en.wikipedia.org/wiki/power
+power	a specific capacity , faculty , or aptitude .	https://en.wikipedia.org/wiki/power
+centre	chiefly british : variant of center .	https://en.wikipedia.org/wiki/centre
+research	scholarly or scientific investigation or inquiry .	https://en.wikipedia.org/wiki/research
+research	close , careful study .	https://en.wikipedia.org/wiki/research
+museum	a building , place , or institution devoted to the acquisition , conservation , study , exhibition , and educational interpretation of objects having scientific , historical , or artistic value .	https://en.wikipedia.org/wiki/museum
+festival	an occasion for feasting or celebration , especially a day or time of religious significance that recurs at regular intervals .	https://en.wikipedia.org/wiki/festival
+festival	an often regularly recurring program of cultural performances , exhibitions , or competitions .	https://en.wikipedia.org/wiki/festival
+process	a series of actions , changes , or functions bringing about a result .	https://en.wikipedia.org/wiki/process
+process	a series of operations performed in the making or treatment of a product .	https://en.wikipedia.org/wiki/process
+head	the uppermost or forwardmost part of the body of a vertebrate , containing the brain and the eyes , ears , nose , mouth , and jaws .	https://en.wikipedia.org/wiki/head
+head	the analogous part of an invertebrate organism .	https://en.wikipedia.org/wiki/head
+character	the combination of qualities or features that distinguishes one person , group , or thing from another .	https://en.wikipedia.org/wiki/character
+character	a distinguishing feature or attribute , as of an individual , group , or category .	https://en.wikipedia.org/wiki/character
+women	plural of woman .	https://en.wikipedia.org/wiki/women
+union	the act of uniting or the state of being united .	https://en.wikipedia.org/wiki/union
+union	a combination so formed , especially an alliance or confederation of people , parties , or political entities for mutual interest or benefit .	https://en.wikipedia.org/wiki/union
+range	extent of perception , knowledge , experience , or ability .	https://en.wikipedia.org/wiki/range
+range	the area or sphere in which an activity takes place .	https://en.wikipedia.org/wiki/range
+report	an account presented usually in detail .	https://en.wikipedia.org/wiki/report
+report	a formal account of the proceedings or transactions of a group .	https://en.wikipedia.org/wiki/report
+organization	the act or process of organizing .	https://en.wikipedia.org/wiki/organization
+organization	the state or manner of being organized .	https://en.wikipedia.org/wiki/organization
+own	that which belongs to one .	https://en.wikipedia.org/wiki/own
+issue	the act or an instance of flowing , passing , or giving out .	https://en.wikipedia.org/wiki/issue
+issue	the act of circulating , distributing , or publishing by an office or official group .	https://en.wikipedia.org/wiki/issue
+four	the cardinal number equal to 3 + 1 .	https://en.wikipedia.org/wiki/four
+four	the fourth in a set or sequence .	https://en.wikipedia.org/wiki/four
+minister	one who is authorized to perform religious functions in a christian church , especially a protestant church .	https://en.wikipedia.org/wiki/minister
+minister	roman catholic church : the superior in certain orders .	https://en.wikipedia.org/wiki/minister
+province	a territory governed as an administrative or political unit of a country or empire .	https://en.wikipedia.org/wiki/province
+province	a division of territory under the jurisdiction of an archbishop .	https://en.wikipedia.org/wiki/province
+editor	one who edits , especially as an occupation .	https://en.wikipedia.org/wiki/editor
+editor	one who writes editorials .	https://en.wikipedia.org/wiki/editor
+football	sports : a game played by two teams of 11 players each on a rectangular , 100-yard-long field with goal lines and goal posts at either end , the object being to gain possession of the ball and advance it in running or passing plays across the opponent's goal line or kick it through the air between the opponent's goal posts .	https://en.wikipedia.org/wiki/football
+football	sports : the inflated oval ball used in this game .	https://en.wikipedia.org/wiki/football
+route	a road , course , or way for travel from one place to another .	https://en.wikipedia.org/wiki/route
+route	a highway .	https://en.wikipedia.org/wiki/route
+style	the way in which something is said , done , expressed , or performed .	https://en.wikipedia.org/wiki/style
+style	the combination of distinctive features of literary or artistic expression , execution , or performance characterizing a particular person , group , school , or era .	https://en.wikipedia.org/wiki/style
+body	the entire material or physical structure of an organism , especially of a human or animal .	https://en.wikipedia.org/wiki/body
+body	the physical part of a person .	https://en.wikipedia.org/wiki/body
+land	the solid ground of the earth .	https://en.wikipedia.org/wiki/land
+land	ground or soil .	https://en.wikipedia.org/wiki/land
+term	a limited period of time .	https://en.wikipedia.org/wiki/term
+term	a period of time that is assigned to a person to serve .	https://en.wikipedia.org/wiki/term
+match	one that is exactly like another ; a counterpart .	https://en.wikipedia.org/wiki/match
+match	one that is like another in one or more specified qualities .	https://en.wikipedia.org/wiki/match
+john	slang : a toilet .	https://en.wikipedia.org/wiki/john
+john	slang : a man who is a prostitute's customer .	https://en.wikipedia.org/wiki/john
+wife	a woman joined to a man in marriage ; a female spouse .	https://en.wikipedia.org/wiki/wife
+network	an openwork fabric or structure in which cords , threads , or wires cross at regular intervals .	https://en.wikipedia.org/wiki/network
+network	something resembling an openwork fabric or structure in form or concept , especially:	https://en.wikipedia.org/wiki/network
+movement	the act or an instance of moving ; a change in place or position .	https://en.wikipedia.org/wiki/movement
+movement	a particular manner of moving .	https://en.wikipedia.org/wiki/movement
+production	the act or process of producing .	https://en.wikipedia.org/wiki/production
+production	the fact or process of being produced .	https://en.wikipedia.org/wiki/production
+education	the act or process of educating or being educated .	https://en.wikipedia.org/wiki/education
+education	the knowledge or skill obtained or developed by a learning process .	https://en.wikipedia.org/wiki/education
+kingdom	a political or territorial unit ruled by a sovereign .	https://en.wikipedia.org/wiki/kingdom
+kingdom	the eternal spiritual sovereignty of god or christ .	https://en.wikipedia.org/wiki/kingdom
+tour	a trip with visits to various places of interest for business , pleasure , or instruction .	https://en.wikipedia.org/wiki/tour
+image	a reproduction of the form of a person or object , especially a sculptured likeness .	https://en.wikipedia.org/wiki/image
+image	physics : an optically formed duplicate , counterpart , or other representative reproduction of an object , especially an optical reproduction formed by a lens or mirror .	https://en.wikipedia.org/wiki/image
+top	the uppermost part , point , surface , or end .	https://en.wikipedia.org/wiki/top
+top	the part farthest from a given reference point .	https://en.wikipedia.org/wiki/top
+user	one that uses .	https://en.wikipedia.org/wiki/user
+user	law : the exercise or enjoyment of a right or property .	https://en.wikipedia.org/wiki/user
+class	a set , collection , group , or configuration containing members regarded as having certain attributes or traits in common ; a kind or category .	https://en.wikipedia.org/wiki/class
+class	a division based on quality , rank , or grade ,  .	https://en.wikipedia.org/wiki/class
+episode	an incident or event that is part of a progression or a larger sequence .	https://en.wikipedia.org/wiki/episode
+episode	one of a series of related events in the course of a continuous account .	https://en.wikipedia.org/wiki/episode
+type	a number of people or things having in common traits or characteristics that distinguish them as a group or class .	https://en.wikipedia.org/wiki/type
+type	the general character or structure held in common by a number of people or things considered as a group or class .	https://en.wikipedia.org/wiki/type
+study	the act or process of studying .	https://en.wikipedia.org/wiki/study
+study	the pursuit of knowledge , as by reading , observation , or research .	https://en.wikipedia.org/wiki/study
+example	one that is representative of a group as a whole .	https://en.wikipedia.org/wiki/example
+example	one serving as a pattern of a specific kind .	https://en.wikipedia.org/wiki/example
+reason	the basis or motive for an action , decision , or conviction .	https://en.wikipedia.org/wiki/reason
+reason	a declaration made to explain or justify action , decision , or conviction .	https://en.wikipedia.org/wiki/reason
+republic	a political order whose head of state is not a monarch and in modern times is usually a president .	https://en.wikipedia.org/wiki/republic
+love	a deep , tender , ineffable feeling of affection and solicitude toward a person , such as that arising from kinship , recognition of attractive qualities , or a sense of underlying oneness .	https://en.wikipedia.org/wiki/love
+love	a feeling of intense desire and attraction toward a person with whom one is disposed to make a pair ; the emotion of sex and romance .	https://en.wikipedia.org/wiki/love
+race	a local geographic or global human population distinguished as a more or less distinct group by genetically transmitted physical characteristics .	https://en.wikipedia.org/wiki/race
+race	a group of people united or classified together on the basis of common history , nationality , or geographic distribution .	https://en.wikipedia.org/wiki/race
+model	a small object , usually built to scale , that represents in detail another , often larger object .	https://en.wikipedia.org/wiki/model
+model	a preliminary work or construction that serves as a plan from which a final product is to be made .	https://en.wikipedia.org/wiki/model
+water	a clear , colorless , odorless , and tasteless liquid , h2o , essential for most plant and animal life and the most widely used of all solvents .	https://en.wikipedia.org/wiki/water
+water	any of various forms of water .	https://en.wikipedia.org/wiki/water
+base	the lowest or bottom part .	https://en.wikipedia.org/wiki/base
+base	biology : the part of a plant or animal organ that is nearest to its point of attachment .	https://en.wikipedia.org/wiki/base
+academy	a school for special instruction .	https://en.wikipedia.org/wiki/academy
+academy	a secondary or college-preparatory school , especially a private one .	https://en.wikipedia.org/wiki/academy
+policy	a plan or course of action , as of a government , political party , or business , intended to influence and determine decisions , actions , and other matters .	https://en.wikipedia.org/wiki/policy
+policy	a course of action , guiding principle , or procedure considered expedient , prudent , or advantageous .	https://en.wikipedia.org/wiki/policy
+shot	the firing or discharge of a weapon , such as a gun .	https://en.wikipedia.org/wiki/shot
+shot	the distance over which something is shot ; the range .	https://en.wikipedia.org/wiki/shot
+mother	a female person who is pregnant with or gives birth to a child .	https://en.wikipedia.org/wiki/mother
+mother	a female person whose egg unites with a sperm , resulting in the conception of a child .	https://en.wikipedia.org/wiki/mother
+air	a colorless , odorless , tasteless , gaseous mixture , mainly nitrogen (approximately 78 percent) and oxygen (approximately 21 percent) with lesser amounts of argon , carbon dioxide , hydrogen , neon , helium , and other gases .	https://en.wikipedia.org/wiki/air
+air	this mixture with varying amounts of moisture and particulate matter , enveloping the earth ; the atmosphere .	https://en.wikipedia.org/wiki/air
+business	the occupation , work , or trade in which a person is engaged .	https://en.wikipedia.org/wiki/business
+business	a specific occupation or pursuit .	https://en.wikipedia.org/wiki/business
+fact	knowledge or information based on real occurrences .	https://en.wikipedia.org/wiki/fact
+fact	something demonstrated to exist or known to have existed .	https://en.wikipedia.org/wiki/fact
+daughter	one's female child .	https://en.wikipedia.org/wiki/daughter
+daughter	a female descendant .	https://en.wikipedia.org/wiki/daughter
+link	one of the rings or loops forming a chain .	https://en.wikipedia.org/wiki/link
+link	a unit in a connected series of units .	https://en.wikipedia.org/wiki/link
+problem	a question to be considered , solved , or answered .	https://en.wikipedia.org/wiki/problem
+problem	a situation , matter , or person that presents perplexity or difficulty .	https://en.wikipedia.org/wiki/problem
+discussion	consideration of a subject by a group ; an earnest conversation .	https://en.wikipedia.org/wiki/discussion
+discussion	a formal discourse on a topic ; an exposition .	https://en.wikipedia.org/wiki/discussion
+officer	one who holds an office of authority or trust in an organization , such as a corporation or government .	https://en.wikipedia.org/wiki/officer
+officer	one who holds a commission in the armed forces .	https://en.wikipedia.org/wiki/officer
+former	one that forms ; a maker or creator .	https://en.wikipedia.org/wiki/former
+former	a member of a school form .	https://en.wikipedia.org/wiki/former
+collection	the act or process of collecting .	https://en.wikipedia.org/wiki/collection
+collection	a group of objects or works to be seen , studied , or kept together .	https://en.wikipedia.org/wiki/collection
+content	something contained , as in a receptacle .	https://en.wikipedia.org/wiki/content
+content	the individual items or topics that are dealt with in a publication or document .	https://en.wikipedia.org/wiki/content
+track	a mark or succession of marks left by something that has passed .	https://en.wikipedia.org/wiki/track
+track	a path , route , or course indicated by such marks .	https://en.wikipedia.org/wiki/track
+bridge	a structure spanning and providing passage over a gap or barrier , such as a river or roadway .	https://en.wikipedia.org/wiki/bridge
+bridge	something resembling or analogous to this structure in form or function .	https://en.wikipedia.org/wiki/bridge
+competition	the act of competing , as for profit or a prize ; rivalry .	https://en.wikipedia.org/wiki/competition
+competition	a test of skill or ability ; a contest .	https://en.wikipedia.org/wiki/competition
+ship	a vessel of considerable size for deep-water navigation .	https://en.wikipedia.org/wiki/ship
+ship	a sailing vessel having three or more square-rigged masts .	https://en.wikipedia.org/wiki/ship
+beginning	the act or process of bringing or being brought into being ; a start .	https://en.wikipedia.org/wiki/beginning
+beginning	the time when something begins or is begun .	https://en.wikipedia.org/wiki/beginning
+post	a long piece of wood or other material set upright into the ground to serve as a marker or support .	https://en.wikipedia.org/wiki/post
+post	a similar vertical support or structure ,  .	https://en.wikipedia.org/wiki/post
+brother	a male having the same parents as another or one parent in common with another .	https://en.wikipedia.org/wiki/brother
+brother	one who shares a common ancestry , allegiance , character , or purpose with another or others , especially:	https://en.wikipedia.org/wiki/brother
+evidence	a thing or things helpful in forming a conclusion or judgment .	https://en.wikipedia.org/wiki/evidence
+evidence	something indicative ; an outward sign .	https://en.wikipedia.org/wiki/evidence
+course	onward movement in a particular direction ; progress .	https://en.wikipedia.org/wiki/course
+course	movement in time ; duration .	https://en.wikipedia.org/wiki/course
+campaign	a series of military operations undertaken to achieve a large-scale objective during a war .	https://en.wikipedia.org/wiki/campaign
+campaign	an operation or series of operations energetically pursued to accomplish a purpose .	https://en.wikipedia.org/wiki/campaign
+leader	one that leads or guides .	https://en.wikipedia.org/wiki/leader
+leader	one who is in charge or in command of others .	https://en.wikipedia.org/wiki/leader
+material	the substance or substances out of which a thing is or can be made .	https://en.wikipedia.org/wiki/material
+material	something , such as an idea or information , that is to be refined and made or incorporated into a finished effort .	https://en.wikipedia.org/wiki/material
+bank	a piled-up mass , as of snow or clouds .	https://en.wikipedia.org/wiki/bank
+bank	a steep natural incline .	https://en.wikipedia.org/wiki/bank
+railway	a railroad , especially one operated over a limited area .	https://en.wikipedia.org/wiki/railway
+railway	a track providing a runway for wheeled equipment .	https://en.wikipedia.org/wiki/railway
+aircraft	a machine or device , such as an airplane , helicopter , glider , or dirigible , that is capable of atmospheric flight .	https://en.wikipedia.org/wiki/aircraft
+cause	the producer of an effect , result , or consequence .	https://en.wikipedia.org/wiki/cause
+cause	the one , such as a person , event , or condition , that is responsible for an action or result .	https://en.wikipedia.org/wiki/cause
+magazine	a periodical containing a collection of articles , stories , pictures , or other features .	https://en.wikipedia.org/wiki/magazine
+magazine	a television program that presents a variety of topics , usually on current events , in a format that often includes interviews and commentary .	https://en.wikipedia.org/wiki/magazine
+unit	an individual , group , structure , or other entity regarded as an elementary structural or functional constituent of a whole .	https://en.wikipedia.org/wiki/unit
+unit	a group regarded as a distinct entity within a larger group .	https://en.wikipedia.org/wiki/unit
+degree	one of a series of steps in a process , course , or progression ; a stage .	https://en.wikipedia.org/wiki/degree
+degree	a step in a direct hereditary line of descent or ascent .	https://en.wikipedia.org/wiki/degree
+structure	something made up of a number of parts that are held or put together in a particular way .	https://en.wikipedia.org/wiki/structure
+structure	the way in which parts are arranged or put together to form a whole ; makeup .	https://en.wikipedia.org/wiki/structure
+space	mathematics : a set of elements or points satisfying specified geometric postulates .	https://en.wikipedia.org/wiki/space
+space	the infinite extension of the three-dimensional region in which all matter exists .	https://en.wikipedia.org/wiki/space
+conference	a meeting for consultation or discussion .	https://en.wikipedia.org/wiki/conference
+conference	an exchange of views .	https://en.wikipedia.org/wiki/conference
+third	the ordinal number matching the number three in a series .	https://en.wikipedia.org/wiki/third
+third	one of three equal parts .	https://en.wikipedia.org/wiki/third
+coach	a motorbus .	https://en.wikipedia.org/wiki/coach
+coach	a railroad passenger car .	https://en.wikipedia.org/wiki/coach
+view	an examination or inspection .	https://en.wikipedia.org/wiki/view
+view	a sight ; a look .	https://en.wikipedia.org/wiki/view
+b	the second letter of the modern english alphabet .	https://en.wikipedia.org/wiki/b
+b	any of the speech sounds represented by the letter b .	https://en.wikipedia.org/wiki/b
+library	a place in which literary and artistic materials , such as books , periodicals , newspapers , pamphlets , prints , records , and tapes , are kept for reading , reference , or lending .	https://en.wikipedia.org/wiki/library
+library	a collection of such materials , especially when systematically arranged .	https://en.wikipedia.org/wiki/library
+training	the process or routine of one who trains .	https://en.wikipedia.org/wiki/training
+training	the state of being trained .	https://en.wikipedia.org/wiki/training
+interest	a state of curiosity or concern about or attention to something .	https://en.wikipedia.org/wiki/interest
+interest	something , such as a quality , subject , or activity , that evokes this mental state .	https://en.wikipedia.org/wiki/interest
+writing	the act of one who writes .	https://en.wikipedia.org/wiki/writing
+writing	written form .	https://en.wikipedia.org/wiki/writing
+performance	the act of performing or the state of being performed .	https://en.wikipedia.org/wiki/performance
+performance	the act or style of performing a work or role before an audience .	https://en.wikipedia.org/wiki/performance
+novel	a fictional prose narrative of considerable length , typically having a plot that is unfolded by the actions , speech , and thoughts of the characters .	https://en.wikipedia.org/wiki/novel
+novel	the literary genre represented by novels .	https://en.wikipedia.org/wiki/novel
+construction	the act or process of constructing .	https://en.wikipedia.org/wiki/construction
+construction	the art , trade , or work of building .	https://en.wikipedia.org/wiki/construction
+coast	land next to the sea ; the seashore .	https://en.wikipedia.org/wiki/coast
+coast	the pacific coast of the united states .	https://en.wikipedia.org/wiki/coast
+half	one of two equal parts that together constitute a whole .	https://en.wikipedia.org/wiki/half
+half	one part approximately equal to the remaining part .	https://en.wikipedia.org/wiki/half
+e	the fifth letter of the modern english alphabet .	https://en.wikipedia.org/wiki/e
+e	any of the speech sounds represented by the letter e .	https://en.wikipedia.org/wiki/e
+industry	commercial production and sale of goods .	https://en.wikipedia.org/wiki/industry
+industry	a specific branch of manufacture and trade .	https://en.wikipedia.org/wiki/industry
+professor	a college or university teacher who ranks above an associate professor .	https://en.wikipedia.org/wiki/professor
+professor	a teacher or instructor .	https://en.wikipedia.org/wiki/professor
+appearance	the act or an instance of coming into sight .	https://en.wikipedia.org/wiki/appearance
+appearance	the act or an instance of coming into public view .	https://en.wikipedia.org/wiki/appearance
+science	the observation , identification , description , experimental investigation , and theoretical explanation of phenomena .	https://en.wikipedia.org/wiki/science
+science	such activities restricted to a class of natural phenomena .	https://en.wikipedia.org/wiki/science
+lake	a large inland body of fresh water or salt water .	https://en.wikipedia.org/wiki/lake
+lake	a scenic pond , as in a park .	https://en.wikipedia.org/wiki/lake
+foundation	the act of founding , especially the establishment of an institution with provisions for future maintenance .	https://en.wikipedia.org/wiki/foundation
+foundation	the basis on which a thing stands , is founded , or is supported .	https://en.wikipedia.org/wiki/foundation
+author	the writer of a book , article , or other text .	https://en.wikipedia.org/wiki/author
+author	one who practices writing as a profession .	https://en.wikipedia.org/wiki/author
+edition	the entire number of copies of a publication issued at one time or from a single set of type .	https://en.wikipedia.org/wiki/edition
+edition	a single copy from this group .	https://en.wikipedia.org/wiki/edition
+amount	the total of two or more quantities ; the aggregate .	https://en.wikipedia.org/wiki/amount
+amount	a number ; a sum .	https://en.wikipedia.org/wiki/amount
+census	an official , usually periodic enumeration of a population , often including the collection of related demographic information .	https://en.wikipedia.org/wiki/census
+census	in ancient rome , a count of the citizens and an evaluation of their property for taxation purposes .	https://en.wikipedia.org/wiki/census
+block	a solid piece of a hard substance , such as wood , having one or more flat sides .	https://en.wikipedia.org/wiki/block
+block	such a piece used as a construction member or as a support .	https://en.wikipedia.org/wiki/block
+lot	informal : a large extent , amount , or number .	https://en.wikipedia.org/wiki/lot
+lot	informal : used adverbially with a or in the plural to mean "to a great degree or extent    or "frequently    .	https://en.wikipedia.org/wiki/lot
+hospital	an institution that provides medical , surgical , or psychiatric care and treatment for the sick or the injured .	https://en.wikipedia.org/wiki/hospital
+hospital	chiefly british : a charitable institution , such as an orphanage or a home for the elderly .	https://en.wikipedia.org/wiki/hospital
+woman	an adult female human .	https://en.wikipedia.org/wiki/woman
+woman	women considered as a group ; womankind .	https://en.wikipedia.org/wiki/woman
+plan	a scheme , program , or method worked out beforehand for the accomplishment of an objective .	https://en.wikipedia.org/wiki/plan
+plan	a proposed or tentative project or course of action .	https://en.wikipedia.org/wiki/plan
+idea	something , such as a thought or conception , that potentially or actually exists in the mind as a product of mental activity .	https://en.wikipedia.org/wiki/idea
+idea	an opinion , conviction , or principle .	https://en.wikipedia.org/wiki/idea
+c	the third letter of the modern english alphabet .	https://en.wikipedia.org/wiki/c
+c	any of the speech sounds represented by the letter c .	https://en.wikipedia.org/wiki/c
+commission	the act of granting certain powers or the authority to carry out a particular task or duty .	https://en.wikipedia.org/wiki/commission
+commission	the authority so granted .	https://en.wikipedia.org/wiki/commission
+success	the achievement of something desired , planned , or attempted .	https://en.wikipedia.org/wiki/success
+success	the gaining of fame or prosperity .	https://en.wikipedia.org/wiki/success
+present	a moment or period in time perceptible as intermediate between past and future ; now .	https://en.wikipedia.org/wiki/present
+present	grammar : the present tense .	https://en.wikipedia.org/wiki/present
+theatre	variant of theater .	https://en.wikipedia.org/wiki/theatre
+medal	a flat piece of metal stamped with a design or an inscription commemorating an event or a person , often given as an award .	https://en.wikipedia.org/wiki/medal
+medal	a piece of metal stamped with a religious device , used as an object of veneration or commemoration .	https://en.wikipedia.org/wiki/medal
+valley	an elongated lowland between ranges of mountains , hills , or other uplands , often having a river or stream running along the bottom .	https://en.wikipedia.org/wiki/valley
+valley	an extensive area of land drained or irrigated by a river system .	https://en.wikipedia.org/wiki/valley
+television	the transmission of dynamic or sometimes static images , generally with accompanying sound , via electric or electromagnetic signals .	https://en.wikipedia.org/wiki/television
+television	an electronic apparatus that receives such signals , reproducing the images on a screen , and typically reproducing accompanying sound signals on speakers .	https://en.wikipedia.org/wiki/television
+variety	the quality or condition of being various or varied ; diversity .	https://en.wikipedia.org/wiki/variety
+variety	a number or collection of varied things , especially of a particular group ; an assortment .	https://en.wikipedia.org/wiki/variety
+stage	a raised and level floor or platform .	https://en.wikipedia.org/wiki/stage
+stage	a raised platform on which theatrical performances are presented .	https://en.wikipedia.org/wiki/stage
+location	the act or process of locating .	https://en.wikipedia.org/wiki/location
+location	a place where something is or could be located ; a site .	https://en.wikipedia.org/wiki/location
+running	the act or an instance of running .	https://en.wikipedia.org/wiki/running
+running	the power or ability to run .	https://en.wikipedia.org/wiki/running
+doing	performance of an act .	https://en.wikipedia.org/wiki/doing
+doing	activities that go on every day .	https://en.wikipedia.org/wiki/doing
+addition	the act or process of adding , especially the process of computing with sets of numbers so as to find their sum .	https://en.wikipedia.org/wiki/addition
+addition	something added , such as a room or section appended to a building .	https://en.wikipedia.org/wiki/addition
+fire	a rapid , persistent chemical change that releases heat and light and is accompanied by flame , especially the exothermic oxidation of a combustible substance .	https://en.wikipedia.org/wiki/fire
+fire	burning fuel or other material .	https://en.wikipedia.org/wiki/fire
+rest	cessation of work , exertion , or activity .	https://en.wikipedia.org/wiki/rest
+rest	peace , ease , or refreshment resulting from sleep or the cessation of an activity .	https://en.wikipedia.org/wiki/rest
+channel	the bed of a stream or river .	https://en.wikipedia.org/wiki/channel
+channel	the deeper part of a river or harbor , especially a deep navigable passage .	https://en.wikipedia.org/wiki/channel
+five	the cardinal number equal to 4 + 1 .	https://en.wikipedia.org/wiki/five
+five	the fifth in a set or sequence .	https://en.wikipedia.org/wiki/five
+s	the 19th letter of the modern english alphabet .	https://en.wikipedia.org/wiki/s
+s	any of the speech sounds represented by the letter s .	https://en.wikipedia.org/wiki/s
+theory	a set of statements or principles devised to explain a group of facts or phenomena , especially one that has been repeatedly tested or is widely accepted and can be used to make predictions about natural phenomena .	https://en.wikipedia.org/wiki/theory
+theory	the branch of a science or art consisting of its explanatory statements , accepted principles , and methods of analysis , as opposed to practice .	https://en.wikipedia.org/wiki/theory
+date	time stated in terms of the day , month , and year .	https://en.wikipedia.org/wiki/date
+date	a statement of calendar time , as on a document .	https://en.wikipedia.org/wiki/date
+experience	the apprehension of an object , thought , or emotion through the senses or mind .	https://en.wikipedia.org/wiki/experience
+experience	active participation in events or activities , leading to the accumulation of knowledge or skill .	https://en.wikipedia.org/wiki/experience
+week	a period of seven days .	https://en.wikipedia.org/wiki/week
+week	a seven-day calendar period , especially one starting with sunday and continuing through saturday .	https://en.wikipedia.org/wiki/week
+rock	relatively hard , naturally formed mineral or petrified matter ; stone .	https://en.wikipedia.org/wiki/rock
+rock	a relatively small piece or fragment of such material .	https://en.wikipedia.org/wiki/rock
+tournament	a series of contests in which a number of contestants compete and the one that prevails through the final round or that finishes with the best record is declared the winner .	https://en.wikipedia.org/wiki/tournament
+tournament	a medieval martial sport in which two groups of mounted and armored combatants fought against each other with blunted lances or swords .	https://en.wikipedia.org/wiki/tournament
+sea	the continuous body of salt water covering most of the earth's surface , especially this body regarded as a geophysical entity distinct from earth and sky .	https://en.wikipedia.org/wiki/sea
+sea	a tract of water within an ocean .	https://en.wikipedia.org/wiki/sea
+car	an automobile .	https://en.wikipedia.org/wiki/car
+car	a vehicle , such as a streetcar , that runs on rails .	https://en.wikipedia.org/wiki/car
+municipality	a political unit , such as a city , town , or village , incorporated for local self-government .	https://en.wikipedia.org/wiki/municipality
+municipality	a body of officials appointed to manage the affairs of a local political unit .	https://en.wikipedia.org/wiki/municipality
+action	the state or process of acting or doing .	https://en.wikipedia.org/wiki/action
+action	something done or accomplished ; a deed .	https://en.wikipedia.org/wiki/action
+thing	an entity , an idea , or a quality perceived , known , or thought to have its own existence .	https://en.wikipedia.org/wiki/thing
+thing	the real or concrete substance of an entity .	https://en.wikipedia.org/wiki/thing
+room	a space that is or may be occupied .	https://en.wikipedia.org/wiki/room
+room	an area separated by walls or partitions from other similar parts of the structure or building in which it is located .	https://en.wikipedia.org/wiki/room
+total	an amount obtained by addition ; a sum .	https://en.wikipedia.org/wiki/total
+total	a whole quantity ; an entirety .	https://en.wikipedia.org/wiki/total
+airport	a tract of leveled land where aircraft can take off and land , usually equipped with hard-surfaced landing strips , a control tower , hangars , aircraft maintenance and refueling facilities , and accommodations for passengers and cargo .	https://en.wikipedia.org/wiki/airport
+airport	such an installation in which the landing area is on water .	https://en.wikipedia.org/wiki/airport
+feature	any of the distinct parts of the face , as the eyes , nose , or mouth .	https://en.wikipedia.org/wiki/feature
+feature	the overall appearance of the face or its parts .	https://en.wikipedia.org/wiki/feature
+lack	deficiency or absence .	https://en.wikipedia.org/wiki/lack
+lack	a particular deficiency or absence .	https://en.wikipedia.org/wiki/lack
+police	the governmental department charged with the regulation and control of the affairs of a community , now chiefly the department established to maintain order , enforce the law , and prevent and detect crime .	https://en.wikipedia.org/wiki/police
+artist	one , such as a painter , sculptor , or writer , who is able by virtue of imagination and talent or skill to create works of aesthetic value , especially in the fine arts .	https://en.wikipedia.org/wiki/artist
+artist	a person whose work shows exceptional creative ability or skill .	https://en.wikipedia.org/wiki/artist
+night	the period between sunset and sunrise , especially the hours of darkness .	https://en.wikipedia.org/wiki/night
+night	this period considered as a unit of time .	https://en.wikipedia.org/wiki/night
+summer	the usually warmest season of the year , occurring between spring and autumn and constituting june , july , and august in the northern hemisphere , or , as calculated astronomically , extending from the summer solstice to the autumnal equinox .	https://en.wikipedia.org/wiki/summer
+summer	a period of fruition , fulfillment , happiness , or beauty .	https://en.wikipedia.org/wiki/summer
+front	the forward part or surface , as of a building .	https://en.wikipedia.org/wiki/front
+front	the area , location , or position directly before or ahead .	https://en.wikipedia.org/wiki/front
+empire	a political unit having an extensive territory or comprising a number of territories or nations and ruled by a single supreme authority .	https://en.wikipedia.org/wiki/empire
+market	a public gathering held for buying and selling merchandise .	https://en.wikipedia.org/wiki/market
+market	a place where goods are offered for sale .	https://en.wikipedia.org/wiki/market
+white	the achromatic color of maximum lightness ; the color of objects that reflect nearly all light of all visible wavelengths ; the complement or antagonist of black , the other extreme of the neutral gray series .	https://en.wikipedia.org/wiki/white
+white	the white or nearly white part ,  .	https://en.wikipedia.org/wiki/white
+question	an expression of inquiry that invites or calls for a reply .	https://en.wikipedia.org/wiki/question
+question	an interrogative sentence , phrase , or gesture .	https://en.wikipedia.org/wiki/question
+light	physics : electromagnetic radiation that has a wavelength in the range from about 4 ,000 (violet) to about 7 ,700 (red) angstroms and may be perceived by the normal unaided human eye .	https://en.wikipedia.org/wiki/light
+light	physics : electromagnetic radiation of any wavelength .	https://en.wikipedia.org/wiki/light
+majority	the greater number or part ; a number more than half of the total .	https://en.wikipedia.org/wiki/majority
+majority	the amount by which the greater number of votes cast , as in an election , exceeds the total number of remaining votes .	https://en.wikipedia.org/wiki/majority
+media	a plural of medium .	https://en.wikipedia.org/wiki/media
+media	linguistics : see medial .	https://en.wikipedia.org/wiki/media
+star	a self-luminous celestial body consisting of a mass of gas held together by its own gravity in which the energy generated by nuclear reactions in the interior is balanced by the outflow of energy to the surface , and the inward-directed gravitational forces are balanced by the outward-directed gas and radiation pressures .	https://en.wikipedia.org/wiki/star
+star	any of the celestial bodies visible at night from earth as relatively stationary , usually twinkling points of light .	https://en.wikipedia.org/wiki/star
+account	a narrative or record of events .	https://en.wikipedia.org/wiki/account
+account	a reason given for a particular action or event .	https://en.wikipedia.org/wiki/account
+m	the 13th letter of the modern english alphabet .	https://en.wikipedia.org/wiki/m
+m	any of the speech sounds represented by the letter m .	https://en.wikipedia.org/wiki/m
+note	a brief record , especially one written down to aid the memory .	https://en.wikipedia.org/wiki/note
+note	a brief informal letter .	https://en.wikipedia.org/wiki/note
+status	position relative to that of others ; standing .	https://en.wikipedia.org/wiki/status
+status	high standing ; prestige .	https://en.wikipedia.org/wiki/status
+german	an intricate dance for many couples .	https://en.wikipedia.org/wiki/german
+german	a party for dancing at which this dance is featured .	https://en.wikipedia.org/wiki/german
+lives	plural of life .	https://en.wikipedia.org/wiki/lives
+d	the fourth letter of the modern english alphabet .	https://en.wikipedia.org/wiki/d
+d	any of the speech sounds represented by the letter d .	https://en.wikipedia.org/wiki/d
+access	a means of approaching , entering , exiting , communicating with , or making use of .	https://en.wikipedia.org/wiki/access
+access	the ability or right to approach , enter , exit , communicate with , or make use of .	https://en.wikipedia.org/wiki/access
+hill	a well-defined natural elevation smaller than a mountain .	https://en.wikipedia.org/wiki/hill
+hill	a small heap , pile , or mound .	https://en.wikipedia.org/wiki/hill
+navy	all of a nation's warships .	https://en.wikipedia.org/wiki/navy
+navy	a nation's entire military organization for sea warfare and defense , including vessels , personnel , and shore establishments .	https://en.wikipedia.org/wiki/navy
+word	a sound or a combination of sounds , or its representation in writing or printing , that symbolizes and communicates a meaning and may consist of a single morpheme or of a combination of morphemes .	https://en.wikipedia.org/wiki/word
+word	something said ; an utterance , remark , or comment .	https://en.wikipedia.org/wiki/word
+cross	an upright post with a transverse piece near the top , on which condemned persons were executed in ancient times .	https://en.wikipedia.org/wiki/cross
+cross	the upright post with a transverse piece upon which jesus was crucified .	https://en.wikipedia.org/wiki/cross
+culture	the totality of socially transmitted behavior patterns , arts , beliefs , institutions , and all other products of human work and thought .	https://en.wikipedia.org/wiki/culture
+culture	these patterns , traits , and products considered as the expression of a particular period , class , community , or population .	https://en.wikipedia.org/wiki/culture
+hand	the terminal part of the human arm located below the forearm , used for grasping and holding and consisting of the wrist , palm , four fingers , and an opposable thumb .	https://en.wikipedia.org/wiki/hand
+hand	a homologous or similar part in other animals , as the terminal part of the forelimb in certain vertebrates .	https://en.wikipedia.org/wiki/hand
+bay	a body of water partially enclosed by land but with a wide mouth , affording access to the sea .	https://en.wikipedia.org/wiki/bay
+bay	an area of land , such as an arm of prairie partially enclosed by woodland , that resembles in shape or formation a partially enclosed body of water .	https://en.wikipedia.org/wiki/bay
+relationship	the condition or fact of being related ; connection or association .	https://en.wikipedia.org/wiki/relationship
+relationship	connection by blood or marriage ; kinship .	https://en.wikipedia.org/wiki/relationship
+assembly	the act of assembling .	https://en.wikipedia.org/wiki/assembly
+assembly	the state of being assembled .	https://en.wikipedia.org/wiki/assembly
+ground	the solid surface of the earth .	https://en.wikipedia.org/wiki/ground
+ground	the floor of a body of water , especially the sea .	https://en.wikipedia.org/wiki/ground
+mission	a body of persons sent to conduct negotiations or establish relations with a foreign country .	https://en.wikipedia.org/wiki/mission
+sound	vibrations transmitted through an elastic solid or a liquid or gas , with frequencies in the approximate range of 20 to 20 ,000 hertz , capable of being detected by human organs of hearing .	https://en.wikipedia.org/wiki/sound
+sound	transmitted vibrations of any frequency .	https://en.wikipedia.org/wiki/sound
+text	the original words of something written or printed , as opposed to a paraphrase , translation , revision , or condensation .	https://en.wikipedia.org/wiki/text
+text	the words of a speech appearing in print .	https://en.wikipedia.org/wiki/text
+friend	a person whom one knows , likes , and trusts .	https://en.wikipedia.org/wiki/friend
+friend	a person whom one knows ; an acquaintance .	https://en.wikipedia.org/wiki/friend
+figure	a written or printed symbol representing something other than a letter , especially a number .	https://en.wikipedia.org/wiki/figure
+figure	mathematical calculations .	https://en.wikipedia.org/wiki/figure
+category	a specifically defined division in a system of classification ; a class .	https://en.wikipedia.org/wiki/category
+category	a general class of ideas , terms , or things that mark divisions or coordinations within a conceptual scheme , especially:	https://en.wikipedia.org/wiki/category
+plant	botany : any of various photosynthetic , eukaryotic , multicellular organisms of the kingdom plantae characteristically producing embryos , containing chloroplasts , having cellulose cell walls , and lacking the power of locomotion .	https://en.wikipedia.org/wiki/plant
+plant	botany : a plant having no permanent woody stem ; an herb .	https://en.wikipedia.org/wiki/plant
+capital	a town or city that is the official seat of government in a political entity , such as a state or nation .	https://en.wikipedia.org/wiki/capital
+capital	a city that is the center of a specific activity or industry .	https://en.wikipedia.org/wiki/capital
+writer	one who writes , especially as an occupation .	https://en.wikipedia.org/wiki/writer
+size	the physical dimensions , proportions , magnitude , or extent of an object .	https://en.wikipedia.org/wiki/size
+size	any of a series of graduated categories of dimension whereby manufactured articles , such as shoes and clothing , are classified .	https://en.wikipedia.org/wiki/size
+technology	the application of science , especially to industrial or commercial objectives .	https://en.wikipedia.org/wiki/technology
+technology	the scientific method and material used to achieve a commercial or industrial objective .	https://en.wikipedia.org/wiki/technology
+child	a person between birth and puberty .	https://en.wikipedia.org/wiki/child
+child	a person who has not attained maturity or the age of legal majority .	https://en.wikipedia.org/wiki/child
+engine	a machine that converts energy into mechanical force or motion .	https://en.wikipedia.org/wiki/engine
+engine	such a machine distinguished from an electric , spring-driven , or hydraulic motor by its use of a fuel .	https://en.wikipedia.org/wiki/engine
+decision	the passing of judgment on an issue under consideration .	https://en.wikipedia.org/wiki/decision
+decision	the act of reaching a conclusion or making up one's mind .	https://en.wikipedia.org/wiki/decision
+management	the act , manner , or practice of managing ; handling , supervision , or control .	https://en.wikipedia.org/wiki/management
+management	the person or persons who control or direct a business or other enterprise .	https://en.wikipedia.org/wiki/management
+meeting	the act or process or an instance of coming together ; an encounter .	https://en.wikipedia.org/wiki/meeting
+meeting	an assembly or gathering of people , as for a business , social , or religious purpose .	https://en.wikipedia.org/wiki/meeting
+journal	a personal record of occurrences , experiences , and reflections kept on a regular basis ; a diary .	https://en.wikipedia.org/wiki/journal
+journal	an official record of daily proceedings , as of a legislative body .	https://en.wikipedia.org/wiki/journal
+governor	a person who governs , especially:	https://en.wikipedia.org/wiki/governor
+governor	the chief executive of a state in the united states .	https://en.wikipedia.org/wiki/governor
+highway	a main public road , especially one connecting towns and cities .	https://en.wikipedia.org/wiki/highway
+matter	something that occupies space and can be perceived by one or more senses ; a physical body , a physical substance , or the universe as a whole .	https://en.wikipedia.org/wiki/matter
+matter	physics : something that has mass and exists as a solid , liquid , gas , or plasma .	https://en.wikipedia.org/wiki/matter
+reference	an act of referring .	https://en.wikipedia.org/wiki/reference
+reference	significance in a specified context .	https://en.wikipedia.org/wiki/reference
+effect	something brought about by a cause or agent ; a result .	https://en.wikipedia.org/wiki/effect
+effect	the power to produce an outcome or achieve a result ; influence .	https://en.wikipedia.org/wiki/effect
+notability	the state or quality of being eminent or worthy of notice .	https://en.wikipedia.org/wiki/notability
+notability	a prominent or notable person .	https://en.wikipedia.org/wiki/notability
+student	one who is enrolled or attends classes at a school , college , or university .	https://en.wikipedia.org/wiki/student
+student	one who studies something .	https://en.wikipedia.org/wiki/student
+test	a procedure for critical evaluation ; a means of determining the presence , quality , or truth of something ; a trial .	https://en.wikipedia.org/wiki/test
+test	a series of questions , problems , or physical responses designed to determine knowledge , intelligence , or ability .	https://en.wikipedia.org/wiki/test
+red	the hue of the long-wave end of the visible spectrum , evoked in the human observer by radiant energy with wavelengths of approximately 630 to 750 nanometers ; any of a group of colors that may vary in lightness and saturation and whose hue resembles that of blood ; one of the additive or light primaries ; one of the psychological primary hues .	https://en.wikipedia.org/wiki/red
+red	a pigment or dye having a red hue .	https://en.wikipedia.org/wiki/red
+chief	one who is highest in rank or authority ; a leader .	https://en.wikipedia.org/wiki/chief
+chief	a chief petty officer .	https://en.wikipedia.org/wiki/chief
+authority	the power to enforce laws , exact obedience , command , determine , or judge .	https://en.wikipedia.org/wiki/authority
+authority	one that is invested with this power , especially a government or body of government officials .	https://en.wikipedia.org/wiki/authority
+coverage	the extent or degree to which something is observed , analyzed , and reported .	https://en.wikipedia.org/wiki/coverage
+coverage	inclusion in an insurance policy or protective plan .	https://en.wikipedia.org/wiki/coverage
+rule	governing power or its possession or use ; authority .	https://en.wikipedia.org/wiki/rule
+rule	the duration of such power .	https://en.wikipedia.org/wiki/rule
+stadium	a large , usually open structure for sports events with tiered seating for spectators .	https://en.wikipedia.org/wiki/stadium
+stadium	a course on which foot races were held in ancient greece , usually semicircular and having tiers of seats for spectators .	https://en.wikipedia.org/wiki/stadium
+manager	one who handles , controls , or directs , especially:	https://en.wikipedia.org/wiki/manager
+manager	one who directs a business or other enterprise .	https://en.wikipedia.org/wiki/manager
+goal	the purpose toward which an endeavor is directed ; an objective .	https://en.wikipedia.org/wiki/goal
+goal	sports : the finish line of a race .	https://en.wikipedia.org/wiki/goal
+standard	a flag , banner , or ensign , especially:	https://en.wikipedia.org/wiki/standard
+standard	the ensign of a chief of state , nation , or city .	https://en.wikipedia.org/wiki/standard
+vote	a formal expression of preference for a candidate for office or for a proposed resolution of an issue .	https://en.wikipedia.org/wiki/vote
+face	the surface of the front of the head from the top of the forehead to the base of the chin and from ear to ear .	https://en.wikipedia.org/wiki/face
+face	a person .	https://en.wikipedia.org/wiki/face
+loss	the act or an instance of losing .	https://en.wikipedia.org/wiki/loss
+loss	one that is lost .	https://en.wikipedia.org/wiki/loss
+nature	the material world and its phenomena .	https://en.wikipedia.org/wiki/nature
+nature	the forces and processes that produce and control all the phenomena of the material world .	https://en.wikipedia.org/wiki/nature
+movie	a sequence of photographs projected onto a screen with sufficient rapidity as to create the illusion of motion and continuity .	https://en.wikipedia.org/wiki/movie
+movie	a connected cinematic narrative represented in this form .	https://en.wikipedia.org/wiki/movie
+politician	one who is actively involved in politics , especially party politics .	https://en.wikipedia.org/wiki/politician
+politician	one who holds or seeks a political office .	https://en.wikipedia.org/wiki/politician
+corporation	a body that is granted a charter recognizing it as a separate legal entity having its own rights , privileges , and liabilities distinct from those of its members .	https://en.wikipedia.org/wiki/corporation
+corporation	such a body created for purposes of government .	https://en.wikipedia.org/wiki/corporation
+influence	a power affecting a person , thing , or course of events , especially one that operates without any direct or apparent effort .	https://en.wikipedia.org/wiki/influence
+influence	power to sway or affect based on prestige , wealth , ability , or position .	https://en.wikipedia.org/wiki/influence
+contract	an agreement between two or more parties , especially one that is written and enforceable by law .	https://en.wikipedia.org/wiki/contract
+contract	the writing or document containing such an agreement .	https://en.wikipedia.org/wiki/contract
+felt	a fabric of matted , compressed animal fibers , such as wool or fur , sometimes mixed with vegetable or synthetic fibers .	https://en.wikipedia.org/wiki/felt
+felt	a material resembling this fabric .	https://en.wikipedia.org/wiki/felt
+scene	something seen by a viewer ; a view or prospect .	https://en.wikipedia.org/wiki/scene
+scene	the place where an action or event occurs .	https://en.wikipedia.org/wiki/scene
+six	the cardinal number equal to 5 + 1 .	https://en.wikipedia.org/wiki/six
+six	the sixth in a set or sequence .	https://en.wikipedia.org/wiki/six
+ability	the quality of being able to do something , especially the physical , mental , financial , or legal power to accomplish something .	https://en.wikipedia.org/wiki/ability
+ability	a natural or acquired skill or talent .	https://en.wikipedia.org/wiki/ability
+mention	the act of referring to something briefly or casually .	https://en.wikipedia.org/wiki/mention
+candidate	a person who seeks or is nominated for an office , prize , or honor .	https://en.wikipedia.org/wiki/candidate
+candidate	a student who has nearly completed the requirements for a degree .	https://en.wikipedia.org/wiki/candidate
+regiment	a military unit of ground troops consisting of at least two battalions , usually commanded by a colonel .	https://en.wikipedia.org/wiki/regiment
+regiment	a large group of people .	https://en.wikipedia.org/wiki/regiment
+staff	a stick or cane carried as an aid in walking or climbing .	https://en.wikipedia.org/wiki/staff
+staff	a stout stick used as a weapon ; a cudgel .	https://en.wikipedia.org/wiki/staff
+focus	a point at which rays of light or other radiation converge or from which they appear to diverge , as after refraction or reflection in an optical system .	https://en.wikipedia.org/wiki/focus
+basis	a foundation upon which something rests .	https://en.wikipedia.org/wiki/basis
+basis	the chief constituent ; the fundamental ingredient .	https://en.wikipedia.org/wiki/basis
+administration	the act or process of administering , especially the management of a government or large institution .	https://en.wikipedia.org/wiki/administration
+administration	the activity of a government or state in the exercise of its powers and duties .	https://en.wikipedia.org/wiki/administration
+comment	a written note intended as an explanation , illustration , or criticism of a passage in a book or other writing ; an annotation .	https://en.wikipedia.org/wiki/comment
+comment	a series of annotations or explanations .	https://en.wikipedia.org/wiki/comment
+future	the indefinite time yet to come .	https://en.wikipedia.org/wiki/future
+future	something that will happen in time to come .	https://en.wikipedia.org/wiki/future
+secretary	a person employed to handle correspondence , keep files , and do clerical work for another person or an organization .	https://en.wikipedia.org/wiki/secretary
+secretary	an officer who keeps records , takes minutes of the meetings , and answers correspondence , as for a company .	https://en.wikipedia.org/wiki/secretary
+format	a plan for the organization and arrangement of a specified production .	https://en.wikipedia.org/wiki/format
+format	the material form or layout of a publication .	https://en.wikipedia.org/wiki/format
+studio	an artist's workroom .	https://en.wikipedia.org/wiki/studio
+studio	a photographer's establishment .	https://en.wikipedia.org/wiki/studio
+branch	a secondary woody stem or limb growing from the trunk or main stem of a tree or shrub or from another secondary limb .	https://en.wikipedia.org/wiki/branch
+branch	a lateral division or subdivision of certain other plant parts , such as a root or flower cluster .	https://en.wikipedia.org/wiki/branch
+meaning	something that is conveyed or signified ; sense or significance .	https://en.wikipedia.org/wiki/meaning
+meaning	something that one wishes to convey , especially by language .	https://en.wikipedia.org/wiki/meaning
+serving	the act of one that serves .	https://en.wikipedia.org/wiki/serving
+serving	an individual portion or helping of food or drink .	https://en.wikipedia.org/wiki/serving
+health	the overall condition of an organism at a given time .	https://en.wikipedia.org/wiki/health
+health	soundness , especially of body or mind ; freedom from disease or abnormality .	https://en.wikipedia.org/wiki/health
+actor	a theatrical performer .	https://en.wikipedia.org/wiki/actor
+actor	one who takes part ; a participant .	https://en.wikipedia.org/wiki/actor
+newspaper	a publication , usually issued daily or weekly , containing current news , editorials , feature articles , and usually advertising .	https://en.wikipedia.org/wiki/newspaper
+corps	a separate branch or department of the armed forces having a specialized function .	https://en.wikipedia.org/wiki/corps
+corps	a tactical unit of ground combat forces between a division and an army commanded by a lieutenant general and composed of two or more divisions and auxiliary service troops .	https://en.wikipedia.org/wiki/corps
+girl	a female child .	https://en.wikipedia.org/wiki/girl
+girl	a daughter .	https://en.wikipedia.org/wiki/girl
+label	an item used to identify something or someone , as a small piece of paper or cloth attached to an article to designate its origin , owner , contents , use , or destination .	https://en.wikipedia.org/wiki/label
+label	a descriptive term ; an epithet .	https://en.wikipedia.org/wiki/label
+saying	something , such as an adage or maxim , that is said .	https://en.wikipedia.org/wiki/saying
+temple	a building dedicated to religious ceremonies or worship .	https://en.wikipedia.org/wiki/temple
+temple	either of two successive buildings in ancient jerusalem serving as the primary center for jewish worship .	https://en.wikipedia.org/wiki/temple
+value	an amount , as of goods , services , or money , considered to be a fair and suitable equivalent for something else ; a fair price or return .	https://en.wikipedia.org/wiki/value
+value	monetary or material worth .	https://en.wikipedia.org/wiki/value
+rate	a quantity measured with respect to another measured quantity .	https://en.wikipedia.org/wiki/rate
+rate	a measure of a part with respect to a whole ; a proportion .	https://en.wikipedia.org/wiki/rate
+singer	music : one who sings , especially a trained or professional vocalist .	https://en.wikipedia.org/wiki/singer
+singer	a poet .	https://en.wikipedia.org/wiki/singer
+care	a burdened state of mind , as that arising from heavy responsibilities ; worry .	https://en.wikipedia.org/wiki/care
+care	mental suffering ; grief .	https://en.wikipedia.org/wiki/care
+victory	defeat of an enemy or opponent .	https://en.wikipedia.org/wiki/victory
+victory	success in a struggle against difficulties or an obstacle .	https://en.wikipedia.org/wiki/victory
+prize	something offered or won as an award for superiority or victory , as in a contest or competition .	https://en.wikipedia.org/wiki/prize
+prize	something worth striving for ; a highly desirable possession .	https://en.wikipedia.org/wiki/prize
+leaves	plural of leaf .	https://en.wikipedia.org/wiki/leaves
+tower	a building or part of a building that is exceptionally high in proportion to its width and length .	https://en.wikipedia.org/wiki/tower
+tower	a tall , slender structure used for observation , signaling , or pumping .	https://en.wikipedia.org/wiki/tower
+master	one that has control over another or others .	https://en.wikipedia.org/wiki/master
+master	the owner or keeper of an animal .	https://en.wikipedia.org/wiki/master
+trade	the business of buying and selling commodities ; commerce .	https://en.wikipedia.org/wiki/trade
+trade	the people working in or associated with a business or industry .	https://en.wikipedia.org/wiki/trade
+knowledge	the state or fact of knowing .	https://en.wikipedia.org/wiki/knowledge
+knowledge	familiarity , awareness , or understanding gained through experience or study .	https://en.wikipedia.org/wiki/knowledge
+smith	a metalworker , especially one who works metal when it is hot and malleable .	https://en.wikipedia.org/wiki/smith
+smith	a blacksmith .	https://en.wikipedia.org/wiki/smith
+code	a systematically arranged and comprehensive collection of laws .	https://en.wikipedia.org/wiki/code
+code	a systematic collection of regulations and rules of procedure or conduct .	https://en.wikipedia.org/wiki/code
+quality	an inherent or distinguishing characteristic ; a property .	https://en.wikipedia.org/wiki/quality
+quality	a personal trait , especially a character trait .	https://en.wikipedia.org/wiki/quality
+territory	an area of land ; a region .	https://en.wikipedia.org/wiki/territory
+territory	the land and waters under the jurisdiction of a government .	https://en.wikipedia.org/wiki/territory
+agency	the condition of being in action ; operation .	https://en.wikipedia.org/wiki/agency
+agency	the means or mode of acting ; instrumentality .	https://en.wikipedia.org/wiki/agency
+method	a means or manner of procedure , especially a regular and systematic way of accomplishing something .	https://en.wikipedia.org/wiki/method
+method	orderly arrangement of parts or steps to accomplish an end .	https://en.wikipedia.org/wiki/method
+energy	the capacity for work or vigorous activity ; vigor ; power .	https://en.wikipedia.org/wiki/energy
+energy	exertion of vigor or power .	https://en.wikipedia.org/wiki/energy
+green	the hue of that portion of the visible spectrum lying between yellow and blue , evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers ; any of a group of colors that may vary in lightness and saturation and whose hue is that of the emerald or somewhat less yellow than that of growing grass ; one of the additive or light primaries ; one of the psychological primary hues .	https://en.wikipedia.org/wiki/green
+green	something green in color .	https://en.wikipedia.org/wiki/green
+bit	a small portion , degree , or amount .	https://en.wikipedia.org/wiki/bit
+bit	a brief amount of time ; a moment .	https://en.wikipedia.org/wiki/bit
+sense	any of the faculties by which stimuli from outside or inside the body are received and felt , as the faculties of hearing , sight , smell , touch , taste , and equilibrium .	https://en.wikipedia.org/wiki/sense
+sense	a perception or feeling produced by a stimulus ; sensation .	https://en.wikipedia.org/wiki/sense
+castle	a large fortified building or group of buildings with thick walls , usually dominating the surrounding country .	https://en.wikipedia.org/wiki/castle
+castle	a fortified stronghold converted to residential use .	https://en.wikipedia.org/wiki/castle
+brown	any of a group of colors between red and yellow in hue that are medium to low in lightness and low to moderate in saturation .	https://en.wikipedia.org/wiki/brown
+store	a place where merchandise is offered for sale ; a shop .	https://en.wikipedia.org/wiki/store
+store	a stock or supply reserved for future use .	https://en.wikipedia.org/wiki/store
+parliament	a national representative body having supreme legislative powers within the state .	https://en.wikipedia.org/wiki/parliament
+parliament	the national legislature of various countries , especially that of the united kingdom , made up of the house of lords and the house of commons .	https://en.wikipedia.org/wiki/parliament
+train	a series of connected railroad cars pulled or pushed by one or more locomotives .	https://en.wikipedia.org/wiki/train
+train	a long line of moving people , animals , or vehicles .	https://en.wikipedia.org/wiki/train
+concept	a general idea derived or inferred from specific instances or occurrences .	https://en.wikipedia.org/wiki/concept
+concept	something formed in the mind ; a thought or notion .	https://en.wikipedia.org/wiki/concept
+response	the act of responding .	https://en.wikipedia.org/wiki/response
+response	a reply or an answer .	https://en.wikipedia.org/wiki/response
+property	something owned ; a possession .	https://en.wikipedia.org/wiki/property
+property	a piece of real estate .	https://en.wikipedia.org/wiki/property
+camp	a place where tents , huts , or other temporary shelters are set up , as by soldiers , nomads , or travelers .	https://en.wikipedia.org/wiki/camp
+camp	a cabin or shelter or group of such buildings .	https://en.wikipedia.org/wiki/camp
+chart	a map showing coastlines , water depths , or other information of use to navigators .	https://en.wikipedia.org/wiki/chart
+chart	an outline map on which specific information , such as scientific data , can be plotted .	https://en.wikipedia.org/wiki/chart
+consensus	an opinion or position reached by a group as a whole .	https://en.wikipedia.org/wiki/consensus
+consensus	general agreement or accord .	https://en.wikipedia.org/wiki/consensus
+china	high-quality porcelain or ceramic ware , originally made in china .	https://en.wikipedia.org/wiki/china
+china	porcelain or earthenware used for the table .	https://en.wikipedia.org/wiki/china
+operation	the act or process of operating or functioning .	https://en.wikipedia.org/wiki/operation
+operation	the state of being operative or functional .	https://en.wikipedia.org/wiki/operation
+money	a medium that can be exchanged for goods and services and is used as a measure of their values on the market , including among its forms a commodity such as gold , an officially issued coin or note , or a deposit in a checking account or other readily liquefiable account .	https://en.wikipedia.org/wiki/money
+money	the official currency , coins , and negotiable paper notes issued by a government .	https://en.wikipedia.org/wiki/money
+la	music : the sixth tone of the diatonic scale in solfeggio .	https://en.wikipedia.org/wiki/la
+agreement	the act of agreeing .	https://en.wikipedia.org/wiki/agreement
+agreement	harmony of opinion ; accord .	https://en.wikipedia.org/wiki/agreement
+effort	the use of physical or mental energy to do something ; exertion .	https://en.wikipedia.org/wiki/effort
+effort	a difficult exertion of the strength or will .	https://en.wikipedia.org/wiki/effort
+month	a unit of time corresponding approximately to one cycle of the moon's phases , or about 30 days or 4 weeks .	https://en.wikipedia.org/wiki/month
+month	one of the 12 divisions of a year as determined by a calendar , especially the gregorian calendar .	https://en.wikipedia.org/wiki/month
+campus	the grounds of a school , college , university , or hospital .	https://en.wikipedia.org/wiki/campus
+campus	a college or university .	https://en.wikipedia.org/wiki/campus
+food	material , usually of plant or animal origin , that contains or consists of essential body nutrients , such as carbohydrates , fats , proteins , vitamins , or minerals , and is ingested and assimilated by an organism to produce energy , stimulate growth , and maintain life .	https://en.wikipedia.org/wiki/food
+food	a specified kind of nourishment .	https://en.wikipedia.org/wiki/food
+situation	the way in which something is positioned vis-  -vis its surroundings .	https://en.wikipedia.org/wiki/situation
+situation	the place in which something is situated ; a location .	https://en.wikipedia.org/wiki/situation
+might	the power , force , or influence held by a person or group .	https://en.wikipedia.org/wiki/might
+might	physical strength .	https://en.wikipedia.org/wiki/might
+congress	a formal assembly of representatives , as of various nations , to discuss problems .	https://en.wikipedia.org/wiki/congress
+congress	the national legislative body of a nation , especially a republic .	https://en.wikipedia.org/wiki/congress
+border	a part that forms the outer edge of something .	https://en.wikipedia.org/wiki/border
+border	a decorative strip around the edge of something , such as fabric .	https://en.wikipedia.org/wiki/border
+recording	something on which sound or visual images have been recorded .	https://en.wikipedia.org/wiki/recording
+recording	a recorded sound or picture .	https://en.wikipedia.org/wiki/recording
+job	a regular activity performed in exchange for payment , especially as one's trade , occupation , or profession .	https://en.wikipedia.org/wiki/job
+job	a position in which one is employed .	https://en.wikipedia.org/wiki/job
+commander	a person who commands , especially a commanding officer .	https://en.wikipedia.org/wiki/commander
+commander	a commissioned rank in the u .s .	https://en.wikipedia.org/wiki/commander
+hotel	an establishment that provides lodging and usually meals and other services for travelers and other paying guests .	https://en.wikipedia.org/wiki/hotel
+ministry	the act of serving ; ministration .	https://en.wikipedia.org/wiki/ministry
+ministry	one that serves as a means ; an instrumentality .	https://en.wikipedia.org/wiki/ministry
+genus	biology : a taxonomic category ranking below a family and above a species and generally consisting of a group of species exhibiting similar characteristics .	https://en.wikipedia.org/wiki/genus
+genus	logic : a class of objects divided into subordinate species having certain common attributes .	https://en.wikipedia.org/wiki/genus
+score	a notch or incision , especially one that is made to keep a tally .	https://en.wikipedia.org/wiki/score
+score	sports & games : a usually numerical record of a competitive event .	https://en.wikipedia.org/wiki/score
+opening	the act or an instance of becoming open or being made to open .	https://en.wikipedia.org/wiki/opening
+opening	an open space serving as a passage or gap .	https://en.wikipedia.org/wiki/opening
+champion	one that wins first place or first prize in a competition .	https://en.wikipedia.org/wiki/champion
+champion	one that is clearly superior or has the attributes of a winner .	https://en.wikipedia.org/wiki/champion
+human	a member of the genus homo and especially of the species h .	https://en.wikipedia.org/wiki/human
+human	a person .	https://en.wikipedia.org/wiki/human
+era	a period of time as reckoned from a specific date serving as the basis of its chronological system .	https://en.wikipedia.org/wiki/era
+era	a period of time characterized by particular circumstances , events , or personages .	https://en.wikipedia.org/wiki/era
+piece	a thing considered as a unit or an element of a larger thing , quantity , or class ; a portion .	https://en.wikipedia.org/wiki/piece
+piece	a portion or part that has been separated from a whole .	https://en.wikipedia.org/wiki/piece
+purpose	the object toward which one strives or for which something exists ; an aim or a goal .	https://en.wikipedia.org/wiki/purpose
+purpose	a result or effect that is intended or desired ; an intention .	https://en.wikipedia.org/wiki/purpose
+settlement	the act or process of settling .	https://en.wikipedia.org/wiki/settlement
+settlement	establishment , as of a person in a business or of people in a new region .	https://en.wikipedia.org/wiki/settlement
+wing	one of a pair of movable organs for flying , as the feather-covered modified forelimb of a bird or the skin-covered modified digits of the forelimb of a bat .	https://en.wikipedia.org/wiki/wing
+wing	any of usually four membranous organs for flying that extend from the thorax of an insect .	https://en.wikipedia.org/wiki/wing
+facility	ease in moving , acting , or doing ; aptitude .	https://en.wikipedia.org/wiki/facility
+facility	readiness to be persuaded ; pliability .	https://en.wikipedia.org/wiki/facility
+v	the 22nd letter of the modern english alphabet .	https://en.wikipedia.org/wiki/v
+v	any of the speech sounds represented by the letter v .	https://en.wikipedia.org/wiki/v
+opinion	a belief or conclusion held with confidence but not substantiated by positive knowledge or proof .	https://en.wikipedia.org/wiki/opinion
+opinion	a judgment based on special knowledge and given by an expert .	https://en.wikipedia.org/wiki/opinion
+topic	the subject of a speech , essay , thesis , or discourse .	https://en.wikipedia.org/wiki/topic
+topic	a subject of discussion or conversation .	https://en.wikipedia.org/wiki/topic
+couple	two items of the same kind ; a pair .	https://en.wikipedia.org/wiki/couple
+couple	something that joins or connects two things together ; a link .	https://en.wikipedia.org/wiki/couple
+someone	a person of importance .	https://en.wikipedia.org/wiki/someone
+function	the action for which a person or thing is particularly fitted or employed .	https://en.wikipedia.org/wiki/function
+function	assigned duty or activity .	https://en.wikipedia.org/wiki/function
+ten	the cardinal number equal to 9 + 1 .	https://en.wikipedia.org/wiki/ten
+ten	the tenth in a set or sequence .	https://en.wikipedia.org/wiki/ten
+length	the state , quality , or fact of being long .	https://en.wikipedia.org/wiki/length
+length	the measurement of the extent of something along its greatest dimension .	https://en.wikipedia.org/wiki/length
+portion	a section or quantity within a larger thing ; a part of a whole .	https://en.wikipedia.org/wiki/portion
+portion	a part separated from a whole .	https://en.wikipedia.org/wiki/portion
+flight	the motion of an object in or through a medium , especially through the earth's atmosphere or through space .	https://en.wikipedia.org/wiki/flight
+flight	an instance of such motion .	https://en.wikipedia.org/wiki/flight
+producer	one that produces , especially a person or organization that produces goods or services for sale .	https://en.wikipedia.org/wiki/producer
+producer	one who supervises and controls the finances , creation , and public presentation of a play , film , program , or similar work .	https://en.wikipedia.org/wiki/producer
+mountain	a natural elevation of the earth's surface having considerable mass , generally steep sides , and a height greater than that of a hill .	https://en.wikipedia.org/wiki/mountain
+mountain	a large heap .	https://en.wikipedia.org/wiki/mountain
+boy	a male child .	https://en.wikipedia.org/wiki/boy
+boy	a son .	https://en.wikipedia.org/wiki/boy
+chairman	the presiding officer of an assembly , meeting , committee , or board .	https://en.wikipedia.org/wiki/chairman
+chairman	the administrative head of a department of instruction , as at a college .	https://en.wikipedia.org/wiki/chairman
+p	the 16th letter of the modern english alphabet .	https://en.wikipedia.org/wiki/p
+p	any of the speech sounds represented by the letter p .	https://en.wikipedia.org/wiki/p
+san	used as a courtesy title in japanese-speaking areas as a suffix to the given name , surname , or title of the person being addressed , regardless of age or gender .	https://en.wikipedia.org/wiki/san
+sign	something that suggests the presence or existence of a fact , condition , or quality .	https://en.wikipedia.org/wiki/sign
+sign	an act or gesture used to convey an idea , a desire , information , or a command .	https://en.wikipedia.org/wiki/sign
+software	computer science : the programs , routines , and symbolic languages that control the functioning of the hardware and direct its operation .	https://en.wikipedia.org/wiki/software
+port	a place on a waterway with facilities for loading and unloading ships .	https://en.wikipedia.org/wiki/port
+port	a city or town on a waterway with such facilities .	https://en.wikipedia.org/wiki/port
+j	the tenth letter of the modern english alphabet .	https://en.wikipedia.org/wiki/j
+j	any of the speech sounds represented by the letter j .	https://en.wikipedia.org/wiki/j
+environment	the circumstances or conditions that surround one ; surroundings .	https://en.wikipedia.org/wiki/environment
+environment	the totality of circumstances surrounding an organism or group of organisms , especially:	https://en.wikipedia.org/wiki/environment
+letter	a written symbol or character representing a speech sound and being a component of an alphabet .	https://en.wikipedia.org/wiki/letter
+letter	a written symbol or character used in the graphemic representation of a word , such as the h in thames .	https://en.wikipedia.org/wiki/letter
+sister	a female having the same parents as another or one parent in common with another .	https://en.wikipedia.org/wiki/sister
+sister	a girl or woman who shares a common ancestry , allegiance , character , or purpose with another or others , specifically:	https://en.wikipedia.org/wiki/sister
+nation	a relatively large group of people organized under a single , usually independent government ; a country .	https://en.wikipedia.org/wiki/nation
+draft	a current of air in an enclosed area .	https://en.wikipedia.org/wiki/draft
+draft	a device that regulates the flow or circulation of air .	https://en.wikipedia.org/wiki/draft
+creation	the act of creating .	https://en.wikipedia.org/wiki/creation
+creation	the fact or state of having been created .	https://en.wikipedia.org/wiki/creation
+orchestra	music : a large group of musicians who play together on various instruments , usually including strings , woodwinds , brass instruments , and percussion instruments .	https://en.wikipedia.org/wiki/orchestra
+japan	a black enamel or lacquer used to produce a durable glossy finish .	https://en.wikipedia.org/wiki/japan
+japan	an object decorated with this substance .	https://en.wikipedia.org/wiki/japan
+squadron	a naval unit consisting of two or more divisions of a fleet .	https://en.wikipedia.org/wiki/squadron
+squadron	an armored cavalry unit subordinate to a regiment and consisting of two or more troops .	https://en.wikipedia.org/wiki/squadron
+queen	the wife or widow of a king .	https://en.wikipedia.org/wiki/queen
+queen	a woman sovereign .	https://en.wikipedia.org/wiki/queen
+host	one who receives or entertains guests in a social or official capacity .	https://en.wikipedia.org/wiki/host
+host	a person who manages an inn or hotel .	https://en.wikipedia.org/wiki/host
+wall	an upright structure of masonry , wood , plaster , or other building material serving to enclose , divide , or protect an area , especially a vertical construction forming an inner partition or exterior siding of a building .	https://en.wikipedia.org/wiki/wall
+wall	a continuous structure of masonry or other material forming a rampart and built for defensive purposes .	https://en.wikipedia.org/wiki/wall
+direction	the act or function of directing .	https://en.wikipedia.org/wiki/direction
+direction	management , supervision , or guidance of an action or operation .	https://en.wikipedia.org/wiki/direction
+mark	a visible trace or impression , such as a line or spot .	https://en.wikipedia.org/wiki/mark
+mark	a sign , such as a cross , made in lieu of a signature .	https://en.wikipedia.org/wiki/mark
+surface	the outer or the topmost boundary of an object .	https://en.wikipedia.org/wiki/surface
+forest	a dense growth of trees , plants , and underbrush covering a large area .	https://en.wikipedia.org/wiki/forest
+forest	something that resembles a large , dense growth of trees , as in density , quantity , or profusion .	https://en.wikipedia.org/wiki/forest
+picture	a visual representation or image painted , drawn , photographed , or otherwise rendered on a flat surface .	https://en.wikipedia.org/wiki/picture
+picture	a visible image , especially one on a flat surface or screen .	https://en.wikipedia.org/wiki/picture
+bill	an itemized list or statement of fees or charges .	https://en.wikipedia.org/wiki/bill
+bill	a statement or list of particulars , such as a theater program or menu .	https://en.wikipedia.org/wiki/bill
+bishop	a high-ranking christian cleric , in modern churches usually in charge of a diocese and in some churches regarded as having received the highest ordination in unbroken succession from the apostles .	https://en.wikipedia.org/wiki/bishop
+bishop	games : a usually miter-shaped chess piece that can move diagonally across any number of unoccupied spaces .	https://en.wikipedia.org/wiki/bishop
+presence	the state or fact of being present ; current existence or occurrence .	https://en.wikipedia.org/wiki/presence
+presence	immediate proximity in time or space .	https://en.wikipedia.org/wiki/presence
+captain	one who commands , leads , or guides others , especially:	https://en.wikipedia.org/wiki/captain
+captain	the officer in command of a ship , an aircraft , or a spacecraft .	https://en.wikipedia.org/wiki/captain
+convention	a formal meeting of members , representatives , or delegates , as of a political party , fraternal society , profession , or industry .	https://en.wikipedia.org/wiki/convention
+convention	the body of persons attending such an assembly .	https://en.wikipedia.org/wiki/convention
+voice	the sound produced by the vocal organs of a vertebrate , especially a human .	https://en.wikipedia.org/wiki/voice
+voice	the ability to produce such sounds .	https://en.wikipedia.org/wiki/voice
+fleet	a number of warships operating together under one command .	https://en.wikipedia.org/wiki/fleet
+fleet	a group of vessels or vehicles , such as taxicabs or fishing boats , owned or operated as a unit .	https://en.wikipedia.org/wiki/fleet
+speed	physics : the rate or a measure of the rate of motion , especially:	https://en.wikipedia.org/wiki/speed
+speed	physics : distance traveled divided by the time of travel .	https://en.wikipedia.org/wiki/speed
+crew	a group of people working together ; a gang .	https://en.wikipedia.org/wiki/crew
+crew	a group of people gathered together temporarily ; a crowd .	https://en.wikipedia.org/wiki/crew
+register	a formal or official recording of items , names , or actions .	https://en.wikipedia.org/wiki/register
+register	a book for such entries .	https://en.wikipedia.org/wiki/register
+f	the sixth letter of the modern english alphabet .	https://en.wikipedia.org/wiki/f
+f	any of the speech sounds represented by the letter f .	https://en.wikipedia.org/wiki/f
+reading	the act or activity of one that reads .	https://en.wikipedia.org/wiki/reading
+reading	the act or practice of rendering aloud written or printed matter .	https://en.wikipedia.org/wiki/reading
+revolution	orbital motion about a point , especially as distinguished from axial rotation .	https://en.wikipedia.org/wiki/revolution
+revolution	a turning or rotational motion about an axis .	https://en.wikipedia.org/wiki/revolution
+township	a subdivision of a county in most northeast and midwest u .s .	https://en.wikipedia.org/wiki/township
+township	a public land surveying unit of 36 sections or 36 square miles .	https://en.wikipedia.org/wiki/township
+paper	a material made of cellulose pulp , derived mainly from wood , rags , and certain grasses , processed into flexible sheets or rolls by deposit from an aqueous suspension , and used chiefly for writing , printing , drawing , wrapping , and covering walls .	https://en.wikipedia.org/wiki/paper
+paper	a single sheet of this material .	https://en.wikipedia.org/wiki/paper
+attention	concentration of the mental powers upon an object ; a close or careful observing or listening .	https://en.wikipedia.org/wiki/attention
+attention	the ability or power to concentrate mentally .	https://en.wikipedia.org/wiki/attention
+entry	the act or an instance of entering .	https://en.wikipedia.org/wiki/entry
+entry	the privilege or right of entering .	https://en.wikipedia.org/wiki/entry
+gold	a soft , yellow , corrosion-resistant element , the most malleable and ductile metal , occurring in veins and alluvial deposits and recovered by mining or by panning or sluicing .	https://en.wikipedia.org/wiki/gold
+gold	coinage made of this element .	https://en.wikipedia.org/wiki/gold
+parish	an administrative part of a diocese that has its own church in the anglican , roman catholic , and some other churches .	https://en.wikipedia.org/wiki/parish
+product	something produced by human or mechanical effort or by a natural process .	https://en.wikipedia.org/wiki/product
+product	a direct result ; a consequence .	https://en.wikipedia.org/wiki/product
+avenue	a wide street or thoroughfare .	https://en.wikipedia.org/wiki/avenue
+avenue	a broad roadway lined with trees .	https://en.wikipedia.org/wiki/avenue
+literature	the body of written works of a language , period , or culture .	https://en.wikipedia.org/wiki/literature
+literature	imaginative or creative writing , especially of recognized artistic value .	https://en.wikipedia.org/wiki/literature
+heart	anatomy : the chambered muscular organ in vertebrates that pumps blood received from the veins into the arteries , thereby maintaining the flow of blood through the entire circulatory system .	https://en.wikipedia.org/wiki/heart
+heart	anatomy : a similarly functioning structure in invertebrates .	https://en.wikipedia.org/wiki/heart
+trust	firm reliance on the integrity , ability , or character of a person or thing .	https://en.wikipedia.org/wiki/trust
+trust	custody ; care .	https://en.wikipedia.org/wiki/trust
+volume	a collection of written or printed sheets bound together ; a book .	https://en.wikipedia.org/wiki/volume
+volume	one of the books of a work printed and bound in more than one book .	https://en.wikipedia.org/wiki/volume
+conflict	a state of open , often prolonged fighting ; a battle or war .	https://en.wikipedia.org/wiki/conflict
+conflict	a state of disharmony between incompatible or antithetical persons , ideas , or interests ; a clash .	https://en.wikipedia.org/wiki/conflict
+earth	the land surface of the world .	https://en.wikipedia.org/wiki/earth
+earth	the softer , friable part of land ; soil , especially productive soil .	https://en.wikipedia.org/wiki/earth
+activity	the state of being active .	https://en.wikipedia.org/wiki/activity
+activity	energetic action or movement ; liveliness .	https://en.wikipedia.org/wiki/activity
+deletion	the act of deleting ; removal by striking out .	https://en.wikipedia.org/wiki/deletion
+deletion	material , such as a word or passage , that has been removed from a body of written or printed matter .	https://en.wikipedia.org/wiki/deletion
+zone	an area or a region distinguished from adjacent parts by a distinctive feature or characteristic .	https://en.wikipedia.org/wiki/zone
+zone	any of the five regions of the surface of the earth that are loosely divided according to prevailing climate and latitude , including the torrid zone , the north and south temperate zones , and the north and south frigid zones .	https://en.wikipedia.org/wiki/zone
+analysis	the separation of an intellectual or material whole into its constituent parts for individual study .	https://en.wikipedia.org/wiki/analysis
+analysis	the study of such constituent parts and their interrelationships in making up a whole .	https://en.wikipedia.org/wiki/analysis
+computer	a device that computes , especially a programmable electronic machine that performs high-speed mathematical or logical operations or that assembles , stores , correlates , or otherwise processes information .	https://en.wikipedia.org/wiki/computer
+computer	one who computes .	https://en.wikipedia.org/wiki/computer
+capacity	the ability to receive , hold , or absorb .	https://en.wikipedia.org/wiki/capacity
+capacity	a measure of this ability ; volume .	https://en.wikipedia.org/wiki/capacity
+lord	a man of high rank in a feudal society or in one that retains feudal forms and institutions , especially:	https://en.wikipedia.org/wiki/lord
+lord	a king .	https://en.wikipedia.org/wiki/lord
+winner	one that wins , especially a victor in sports or a notably successful person .	https://en.wikipedia.org/wiki/winner
+formation	the act or process of forming something or of taking form .	https://en.wikipedia.org/wiki/formation
+formation	something formed .	https://en.wikipedia.org/wiki/formation
+husband	a man joined to a woman in marriage ; a male spouse .	https://en.wikipedia.org/wiki/husband
+husband	chiefly british : a manager or steward , as of a household .	https://en.wikipedia.org/wiki/husband
+prince	a male member of a royal family other than the monarch , especially a son of the monarch .	https://en.wikipedia.org/wiki/prince
+prince	a man who is a ruler of a principality .	https://en.wikipedia.org/wiki/prince
+blue	the hue of that portion of the visible spectrum lying between green and indigo , evoked in the human observer by radiant energy with wavelengths of approximately 420 to 490 nanometers ; any of a group of colors that may vary in lightness and saturation , whose hue is that of a clear daytime sky ; one of the additive or light primaries ; one of the psychological primary hues .	https://en.wikipedia.org/wiki/blue
+blue	a pigment or dye imparting this hue .	https://en.wikipedia.org/wiki/blue
+check	an action or influence that stops motion or expression ; a restraint .	https://en.wikipedia.org/wiki/check
+check	the condition of being stopped or held back ; restraint .	https://en.wikipedia.org/wiki/check
+rose	a member of the rose family .	https://en.wikipedia.org/wiki/rose
+rose	any of numerous shrubs or vines of the genus rosa , having prickly stems , pinnately compound leaves , and variously colored , often fragrant flowers .	https://en.wikipedia.org/wiki/rose
+redirect	a redirect examination .	https://en.wikipedia.org/wiki/redirect
+square	a plane figure having four equal sides .	https://en.wikipedia.org/wiki/square
+square	something having an equal-sided rectangular form .	https://en.wikipedia.org/wiki/square
+beach	the shore of a body of water , especially when sandy or pebbly .	https://en.wikipedia.org/wiki/beach
