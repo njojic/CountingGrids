@@ -1,0 +1,437 @@
+id:1	title:Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:2	title:A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:3	title:A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:4	title:Nugget Proposal Networks for Chinese Event Detection.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:5	title:Dating Documents using Graph Convolution Networks.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:6	title:A Stylometric Inquiry into Hyperpartisan and Fake News.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:7	title:Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:8	title:Conversations Gone Awry: Detecting Early Signs of Conversational Failure.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:9	title:Chinese NER Using Lattice LSTM.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:10	title:Zero-Shot Transfer Learning for Event Extraction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:11	title:Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:12	title:Composing Finite State Transducers on GPUs.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:13	title:Batch IS NOT Heavy: Learning Word Representations From All Samples.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:14	title:Joint Reasoning for Temporal and Causal Relations.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:15	title:Fluency Boost Learning and Inference for Neural Grammatical Error Correction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:16	title:Generating Informative Responses with Controlled Sentence Function.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:17	title:A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:18	title:Probabilistic FastText for Multi-Sense Word Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:19	title:Strong Baselines for Neural Semi-Supervised Learning under Domain Shift.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:20	title:Event2Mind: Commonsense Inference on Events, Intents, and Reactions.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:21	title:Towards Understanding the Geometry of Knowledge Graph Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:22	title:Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:23	title:Neural Document Summarization by Jointly Learning to Score and Select Sentences.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:24	title:Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:25	title:Zero-shot Learning of Classifiers from Natural Language Quantification.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:26	title:Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:27	title:Michalis Vazirgiannis, Jean-Pierre Lorr.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:28	title:Semantic Parsing with Syntax- and Table-Aware SQL Generation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:29	title:Constituency Parsing with a Self-Attentive Encoder.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:30	title:Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:31	title:Efficient Large-Scale Neural Domain Classification with Personalized Attention.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:32	title:Think Visually: Question Answering through Virtual Imagery.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:33	title:Generating Fine-Grained Open Vocabulary Entity Type Descriptions.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:34	title:Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:35	title:Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:36	title:Discovering Implicit Knowledge with Unary Relations.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:37	title:Hierarchical Neural Story Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:38	title:Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:39	title:Give Me More Feedback: Annotating Argument Persuasiveness and Related Attributes in Student Essays.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:40	title:Straight to the Tree: Constituency Parsing with Neural Syntactic Distance.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:41	title:Explicit Retrofitting of Distributional Word Vectors.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:42	title:Supervised Treebank Conversion: Data and Approaches.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:43	title:Rumor Detection on Twitter with Tree-structured Recursive Neural Networks.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:44	title:Neural Sparse Topical Coding.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:45	title:Target-Sensitive Memory Networks for Aspect Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:46	title:Unsupervised Neural Machine Translation with Weight Sharing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:47	title:ParaNMT-50M: Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:48	title:Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:49	title:Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:50	title:Ricardo Henao, Lawrence Carin.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:51	title:Knowledge Diffusion for Neural Dialogue Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:52	title:Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:53	title:Document Context Neural Machine Translation with Memory Networks.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:54	title:A Multi-Axis Annotation Scheme for Event Temporal Relations.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:55	title:Learning Translations via Images with a Massively Multilingual Image Dataset.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:56	title:A Neural Approach to Pun Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:57	title:On the Automatic Generation of Medical Imaging Reports.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:58	title:A Helping Hand: Transfer Learning for Deep Sentiment Analysis.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:59	title:AMR dependency parsing with a typed semantic algebra.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:60	title:Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:61	title:Ultra-Fine Entity Typing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:62	title:MojiTalk: Generating Emotional Responses at Scale.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:63	title:Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:64	title:Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:65	title:Sequence-to-sequence Models for Cache Transition Systems.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:66	title:Accurate SHRG-Based Semantic Parsing.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:67	title:Using Intermediate Representations to Solve Math Word Problems.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:68	title:Constraining MGbank: Agreement, L-Selection and Supertagging in Minimalist Grammars.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:69	title:Visual Attention Model for Name Tagging in Multimodal Social Media.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:70	title:Confidence Modeling for Neural Semantic Parsing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:71	title:LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:72	title:Context-Aware Neural Machine Translation Learns Anaphora Resolution.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:73	title:Modeling and Prediction of Online Product Review Helpfulness: A Survey.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:74	title:Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:75	title:Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:76	title:Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:77	title:Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:78	title:Learning How to Actively Learn: A Deep Imitation Learning Approach.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:79	title:Are BLEU and Meaning Representation in Opposition.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:80	title:Learning Prototypical Goal Activities for Locations.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:81	title:What Action Causes This Towards Naive Physical Action-Effect Prediction.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:82	title:Learning Domain-Sensitive and Sentiment-Aware Word Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:83	title:Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:84	title:Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:85	title:The Hitchhikers Guide to Testing Statistical Significance in Natural Language Processing.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:86	title:Domain Adaptation with Adversarial Training and Graph Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:87	title:No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:88	title:Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:89	title:Word Embedding and WordNet Based Metaphor Identification and Interpretation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:90	title:Bridging Languages through Images with Deep Partial Canonical Correlation Analysis.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:91	title:Taylors law for Human Linguistic Sequences.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:92	title:Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:93	title:Deep-speare: A joint neural model of poetic language, meter and rhyme.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:94	title:Question Condensing Networks for Answer Selection in Community Question Answering.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:95	title:Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:96	title:A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:97	title:Semi-supervised User Geolocation via Graph Convolutional Networks.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:98	title:Neural Natural Language Inference Models Enhanced with External Knowledge.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:99	title:Triangular Architecture for Rare Language Translation.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:100	title:Textual Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:101	title:Syntax for Semantic Role Labeling, To Be, Or Not To Be.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:102	title:Training Classifiers with Natural Language Explanations.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:103	title:Efficient Online Scalar Annotation with Bounded Support.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:104	title:Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:105	title:Subword-level Word Vector Representations for Korean.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:106	title:Coarse-to-Fine Decoding for Neural Semantic Parsing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:107	title:A Neural Architecture for Automated ICD Coding.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:108	title:Lets do it again: A First Computational Approach to Detecting Adverbial Presupposition Triggers.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:109	title:Universal Language Model Fine-tuning for Text Classification.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:110	title:Cross-Domain Sentiment Classification with Target Domain Specific Information.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:111	title:TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:112	title:Discourse Coherence: Concurrent Explicit and Implicit Relations.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:113	title:Accelerating Neural Transformer via an Average Attention Network.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:114	title:hyperdoc2vec: Distributed Representations of Hypertext Documents.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:115	title:Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:116	title:Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:117	title:What you can cram into a single !#* vector: Probing sentence embeddings for linguistic properties.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:118	title:Improving Entity Linking by Modeling Latent Relations between Mentions.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:119	title:AMR Parsing as Graph Prediction with Latent Alignment.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:120	title:Document Similarity for Texts of Varying Lengths via Hidden Topics.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:121	title:Neural Argument Generation Augmented with Externally Retrieved Evidence.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:122	title:Cold-Start Aware User and Product Attention for Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:123	title:Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:124	title:Bridging CNNs, RNNs, and Weighted Finite-State Machines.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:125	title:Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:126	title:Disconnected Recurrent Neural Networks for Text Categorization.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:127	title:Twitter Universal Dependency Parsing for African-American and Mainstream American English.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:128	title:NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:129	title:Learning to Control the Specificity in Neural Response Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:130	title:Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:131	title:Adversarial Contrastive Estimation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:132	title:AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:133	title:Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:134	title:End-to-End Reinforcement Learning for Automatic Taxonomy Induction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:135	title:Efficient Low-rank Multimodal Fusion With Modality-Specific Factors.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:136	title:Inherent Biases in Reference-based Evaluation for Grammatical Error Correction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:137	title:Weakly Supervised Semantic Parsing with Abstract Examples.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:138	title:Simple and Effective Multi-Paragraph Reading Comprehension.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:139	title:Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:140	title:Personalizing Dialogue Agents: I have a dog, do you have pets too.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:141	title:Did the Model Understand the Question.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:142	title:Backpropagating through Structured Argmax using a SPIGOT.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:143	title:To Attend or not to Attend: A Case Study on Syntactic Structures for Semantic Relatedness.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:144	title:The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:145	title:Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:146	title:DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:147	title:Graph-to-Sequence Learning using Gated Graph Neural Networks.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:148	title:Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:149	title:SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:150	title:Transformation Networks for Target-Oriented Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:151	title:Stock Movement Prediction from Tweets and Historical Prices.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:152	title:Sentiment Adaptive End-to-End Dialog Systems.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:153	title:LinkNBed: Multi-Graph Representation Learning with Entity Linkage.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:154	title:TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:155	title:Tung, Caitlin Westerfield, Dragomir Radev.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:156	title:Character-Level Models versus Morphology in Semantic Role Labeling.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:157	title:Embedding Learning Through Multilingual Concept Induction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:158	title:A Stochastic Decoder for Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:159	title:Which Melbourne Augmenting Geocoding with Maps.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:160	title:Tailored Sequence to Sequence Models to Different Conversation Scenarios.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:161	title:Deep Reinforcement Learning for Chinese Zero Pronoun Resolution.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:162	title:Building Language Models for Text with Named Entities.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:163	title:Classification of Moral Foundations in Microblog Political Discourse.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:164	title:Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:165	title:Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:166	title:A Graph-to-Sequence Model for AMR-to-Text Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:167	title:Joint Embedding of Words and Labels for Text Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:168	title:Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:169	title:A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:170	title:Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:171	title:Modeling Deliberative Argumentation Strategies on Wikipedia.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:172	title:Simple and Effective Text Simplification Using Semantic and Neural Methods.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:173	title:Forest-Based Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:174	title:Comprehensive Supersense Disambiguation of English Prepositions and Possessives.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:175	title:Bitan, Omri Abend.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:176	title:Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:177	title:Discourse Representation Structure Parsing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:178	title:DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:179	title:The price of debiasing automatic metrics in natural language evalaution.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:180	title:Incorporating Glosses into Neural Word Sense Disambiguation.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:181	title:On the Limitations of Unsupervised Bilingual Dictionary Induction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:182	title:GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:183	title:Multi-Input Attention for Unsupervised OCR Correction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:184	title:Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:185	title:Gaussian Mixture Latent Vector Grammars.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:186	title:Object-oriented Neural Programming (OONP) for Document Understanding.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:187	title:Automatic Metric Validation for Grammatical Error Correction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:188	title:Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:189	title:Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:190	title:Semantically Equivalent Adversarial Rules for Debugging NLP models.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:191	title:DialSQL: Dialogue Based Structured Query Generation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:192	title:Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:193	title:Global Transition-based Non-projective Dependency Parsing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:194	title:Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:195	title:Stack-Pointer Networks for Dependency Parsing.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:196	title:Stochastic Answer Networks for Machine Reading Comprehension.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:197	title:Improving Knowledge Graph Embedding Using Simple Constraints.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:198	title:Denoising Distantly Supervised Open-Domain Question Answering.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:199	title:Language Generation via DAG Transduction.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:200	title:Unsupervised Learning of Distributional Relation Vectors.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:201	title:Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:202	title:Token-level and sequence-level loss smoothing for RNN language models.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:203	title:Mining Cross-Cultural Differences and Similarities in Social Media.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:204	title:Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:205	title:Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:206	title:Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:207	title:Neural Factor Graph Models for Cross-lingual Morphological Tagging.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:208	title:Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:209	title:A Deep Relevance Model for Zero-Shot Document Filtering.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:210	title:Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:211	title:Incorporating Chinese Characters of Words for Lexical Sememe Prediction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:212	title:Distilling Knowledge for Search-based Structured Prediction.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:213	title:Temporal Event Knowledge Acquisition via Identifying Narratives.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:214	title:Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:215	title:NeuralREG: An end-to-end approach to referring expression generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:216	title:Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:217	title:Pre- and In-Parsing Models for Neural Empty Category Detection.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:218	title:Prefix Lexicalization of Synchronous CFGs using Synchronous TAG.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:219	title:Improving Text-to-SQL Evaluation Methodology.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:220	title:Efficient and Robust Question Answering from Minimal Context over Documents.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:221	title:From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:222	title:A Structured Variational Autoencoder for Contextual Morphological Inflection.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:223	title:Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:224	title:Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:225	title:Aspect Based Sentiment Analysis with Gated Convolutional Networks.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:226	title:Context-Aware Neural Model for Temporal Information Extraction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:227	title:Not that much power: Linguistic alignment is influenced more by low-level linguistic features rather than social power.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:228	title:Towards Robust Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:229	title:A Framework for Representing Language Acquisition in a Population Setting.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:230	title:Sentence-State LSTM for Text Representation.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:231	title:Reasoning with Sarcasm by Reading In-Between.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:232	title:Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:233	title:How Much Attention Do You Need A Granular Analysis of Neural Machine Translation Architectures.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:234	title:Multitask Parsing Across Semantic Representations.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:235	title:Harvesting Paragraph-level Question-Answer Pairs from Wikipedia.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:236	title:A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:237	title:Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:238	title:An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:239	title:Retrieval of the Best Counterargument without Prior Topic Knowledge.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:240	title:A Purely End-to-End System for Multi-speaker Speech Recognition.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:241	title:Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:242	title:StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:243	title:Large-Scale QA-SRL Parsing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:244	title:Multimodal Named Entity Disambiguation for Noisy Social Media Posts.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:245	title:Modeling Naive Psychology of Characters in Simple Commonsense Stories.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:246	title:Neural Models for Documents with Metadata.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:247	title:Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:248	title:Guess Me if You Can: Acronym Disambiguation for Enterprises.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:249	title:Finding syntax in human encephalography with beam search.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:250	title:A Distributional and Orthographic Aggregation Model for English Derivational Morphology.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:251	title:Global-Locally Self-Attentive Encoder for Dialogue State Tracking.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:252	title:Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:253	title:Adaptive Scaling for Sparse Detection in Information Extraction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:254	title:Exemplar Encoder-Decoder for Neural Conversation Generation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:255	title:Style Transfer Through Back-Translation.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:256	title:Learning to Write with Cooperative Discriminators.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:257	title:Higher-order Relation Schema Induction using Tensor Factorization with Back-off and Aggregation.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:258	title:Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:259	title:Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:260	title:Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:261	title:Document Modeling with External Attention for Sentence Extraction.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:262	title:Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:263	title:Dynamic and Static Topic Model for Analyzing Time-Series Document Collections.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:264	title:Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:265	title:Party Matters: Enhancing Legislative Embeddings with Author Attributes for Vote Prediction.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:266	title:Scoring Lexical Entailment with a Supervised Directional Similarity Network.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:267	title:Improved Evaluation Framework for Complex Plagiarism Detection.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:268	title:Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:269	title:Tackling the Story Ending Biases in The Story Cloze Test.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:270	title:Analogical Reasoning on Chinese Morphological and Semantic Relations.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:271	title:CNN for Text-Based Multiple Choice Question Answering.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:272	title:Know What You Dont Know: Unanswerable Questions for SQuAD.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:273	title:Towards Robust and Privacy-preserving Text Representations.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:274	title:Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:275	title:Disambiguating False-Alarm Hashtag Usages in Tweets for Irony Detection.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:276	title:Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:277	title:A Multi-task Approach to Learning Multilingual Representations.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:278	title:Unsupervised Semantic Frame Induction using Triclustering.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:279	title:Word Error Rate Estimation for Speech Recognition: e-WER.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:280	title:Bag-of-Words as Target for Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:281	title:Automatic Article Commenting: the Task and Dataset.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:282	title:Exploring Semantic Properties of Sentence Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:283	title:Sparse and Constrained Attention for Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:284	title:Compositional Representation of Morphologically-Rich Input for Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:285	title:Restricted Recurrent Neural Tensor Networks: Exploiting Word Frequency and Compositionality.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:286	title:Deep RNNs Encode Soft Hierarchical Syntax.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:287	title:A Simple and Effective Approach to Coverage-Aware Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:288	title:Do Neural Network Cross-Modal Mappings Really Bridge Modalities.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:289	title:Will it Blend Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:290	title:Narrative Modeling with Memory Chains and Semantic Supervision.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:291	title:A Co-Matching Model for Multi-choice Reading Comprehension.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:292	title:Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:293	title:A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:294	title:SciDTB: Discourse Dependency TreeBank for Scientific Abstracts.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:295	title:GNEG: Graph-Based Negative Sampling for word2vec.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:296	title:Learning Cross-lingual Distributed Logical Representations for Semantic Parsing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:297	title:Domain Adapted Word Embeddings for Improved Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:298	title:Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:299	title:A Walk-based Model on Entity Graphs for Relation Extraction.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:300	title:Extracting Commonsense Properties from Embeddings with Limited Human Guidance.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:301	title:Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:302	title:A Language Model based Evaluator for Sentence Compression.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:303	title:Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:304	title:Automatic Estimation of Simultaneous Interpreter Performance.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:305	title:Conditional Generators of Words Definitions.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:306	title:Learning from Chunk-based Feedback in Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:307	title:Breaking NLI Systems with Sentences that Require Simple Lexical Inferences.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:308	title:Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:309	title:Identification of Alias Links among Participants in Narratives.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:310	title:Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:311	title:Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:312	title:Using pseudo-senses for improving the extraction of synonyms from word embeddings.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:313	title:Lighter Can Still Be Dark: Modeling Comparative Color Descriptions.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:314	title:Personalized Language Model for Query Auto-Completion.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:315	title:Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:316	title:Identifying and Understanding User Reactions to Deceptive and Trusted Social News Sources.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:317	title:Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:318	title:Global Encoding for Abstractive Summarization.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:319	title:A Document Descriptor using Covariance of Word Vectors.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:320	title:Characterizing Departures from Linearity in Word Translation.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:321	title:Modeling Sentiment Association in Discourse for Humor Recognition.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:322	title:Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:323	title:An Empirical Study of Building a Strong Baseline for Constituency Parsing.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:324	title:Learning Thematic Similarity Metric from Article Sections Using Triplet Networks.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:325	title:Addressing Noise in Multidialectal Word Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:326	title:Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:327	title:A dataset for identifying actionable feedback in collaborative software development.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:328	title:Named Entity Recognition With Parallel Recurrent Neural Networks.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:329	title:A Named Entity Recognition Shootout for German.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:330	title:Filtering and Mining Parallel Data in a Joint Multilingual Space.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:331	title:Paper Abstract Writing through Editing Mechanism.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:332	title:Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:333	title:Obligation and Prohibition Extraction Using Hierarchical RNNs.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:334	title:End-Task Oriented Textual Entailment via Deep Explorations of Inter-Sentence Interactions.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:335	title:Injecting Relational Structural Representation in Neural Networks for Question Similarity.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:336	title:Simpler but More Accurate Semantic Dependency Parsing.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:337	title:Multi-representation ensembles and delayed SGD updates improve syntax-based NMT.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:338	title:Automatic Extraction of Commonsense LocatedNear Knowledge.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:339	title:On the Practical Computational Power of Finite Precision RNNs for Language Recognition.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:340	title:Unsupervised Learning of Style-sensitive Word Vectors.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:341	title:Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:342	title:Leveraging distributed representations and lexico-syntactic fixedness for token-level prediction of the idiomaticity of English verb-noun combinations.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:343	title:Parser Training with Heterogeneous Treebanks.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:344	title:Active learning for deep semantic parsing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:345	title:SNAG: Spoken Narratives and Gaze Dataset.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:346	title:Split and Rephrase: Better Evaluation and Stronger Baselines.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:347	title:Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:348	title:Task-oriented Dialogue System for Automatic Diagnosis.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:349	title:PhraseCTM: Correlated Topic Modeling on Phrases within Markov Random Fields.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:350	title:Fully Statistical Neural Belief Tracking.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:351	title:Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:352	title:Pretraining Sentiment Classifiers with Unlabeled Dialog Data.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:353	title:Automated essay scoring with string kernels and word embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:354	title:Learning Simplifications for Specific Target Audiences.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:355	title:Hybrid semi-Markov CRF for Neural Sequence Labeling.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:356	title:Orthographic Features for Bilingual Lexicon Induction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:357	title:Improving Topic Quality by Promoting Named Entities in Topic Modeling.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:358	title:Exploiting Document Knowledge for Aspect-level Sentiment Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:359	title:Investigating Audio, Video, and Text Fusion Methods for End-to-End Automatic Personality Prediction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:360	title:Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:361	title:Sense-Aware Neural Models for Pun Location in Texts.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:362	title:Predicting accuracy on large datasets from smaller pilot data.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:363	title:Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:364	title:Personalized Review Generation By Expanding Phrases and Attending on Aspect-Aware Representations.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:365	title:Bleaching Text: Abstract Features for Cross-lingual Gender Prediction.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:366	title:A Study of the Importance of External Knowledge in the Named Entity Recognition Task.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:367	title:Linear-time Constituency Parsing with RNNs and Dynamic Programming.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:368	title:Content-based Popularity Prediction of Online Petitions Using a Deep Regression Model.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:369	title:A Rank-Based Similarity Metric for Word Embeddings.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:370	title:diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:371	title:The Influence of Context on Sentence Acceptability Judgements.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:372	title:Generalized chart constraints for efficient PCFG and TAG parsing.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:373	title:Neural Open Information Extraction.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:374	title:Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:375	title:Diachronic degradation of language models: Insights from social media.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:376	title:Extreme Adaptation for Personalized Neural Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:377	title:Polyglot Semantic Role Labeling.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:378	title:Learning with Structured Representations for Negation Scope Extraction.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:379	title:Continuous Learning in a Hierarchical Multiscale Neural Network.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:380	title:Cross-Target Stance Classification with Self-Attention Networks.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:381	title:Modeling discourse cohesion for discourse parsing via memory network.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:382	title:Examining Temporality in Document Classification.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:383	title:Neural Hidden Markov Model for Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:384	title:HotFlip: White-Box Adversarial Examples for Text Classification.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:385	title:Construction of a Chinese Corpus for the Analysis of the Emotionality of Metaphorical Expressions.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:386	title:System Demonstration Papers	abstract:	link:	image:http://www.bing.com/	layer:2
+id:387	title:HarriGT: A Tool for Linking News to Science.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:388	title:DeepPavlov: Open-Source Library for Dialogue Systems.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:389	title:Khakhulin, Yuri Kuratov, Denis Kuznetsov, Alexey Litinsky, Varvara Logacheva, Alexey Lymar, Valentin Malykh, Maxim Petrov, Vadim Polulyakh, Leonid Pugachev, Alexey Sorokin, Maria Vikhreva, Marat	abstract:	link:	image:http://www.bing.com/	layer:2
+id:390	title:TALEN: Tool for Annotation of Low-resource ENtities.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:391	title:SANTO: A Web-based Annotation Tool for Ontology-driven Slot Filling.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:392	title:A Flexible, Efficient and Accurate Framework for Community Question Answering Pipelines.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:393	title:NextGen AML: Distributed Deep Learning based Language Technologies to Augment Anti Money Laundering Investigation.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:394	title:ScoutBot: A Dialogue System for Collaborative Navigation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:395	title:Voss, David Traum.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:396	title:NCRF: An Open-source Neural Sequence Labeling Toolkit.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:397	title:CRUISE: Cold-Start New Skill Development via Iterative Utterance Generation.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:398	title:Translating a Language You Dont Know In the Chinese Room.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:399	title:NLP Web Services for Resource-Scarce Languages.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:400	title:Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:401	title:The SUMMA Platform: A Scalable Infrastructure for Multi-lingual Multi-media Monitoring.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:402	title:Platforms for Non-speakers Annotating Names in Any Language.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:403	title:RETURNN as a Generic Flexible Neural Toolkit with Application to Translation and Speech Recognition.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:404	title:Sentence Suggestion of Japanese Functional Expressions for Chinese-speaking Learners.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:405	title:NovelPerspective: Identifying Point of View Characters.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:406	title:Jack the Reader -- A Machine Reading Framework.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:407	title:Dettmers, Pontus Stenetorp, Sebastian Riedel.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:408	title:Marian: Fast Neural Machine Translation in C.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:409	title:Nikolay Bogoychev, Andr F.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:410	title:Praaline: An Open-Source System for Managing, Annotating, Visualising and Analysing Speech Corpora.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:411	title:DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:412	title:YEDDA: A Lightweight Collaborative Text Span Annotation Tool.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:413	title:Out-of-the-box Universal Romanization Tool uroman.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:414	title:A Web-scale system for scientific knowledge exploration.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:415	title:Student Research Workshop Papers	abstract:	link:	image:http://www.bing.com/	layer:3
+id:416	title:Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:417	title:Exploring Chunk Based Templates for Generating a subset of English Text.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:418	title:Towards Opinion Summarization of Customer Reviews.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:419	title:Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:420	title:Learning-based Composite Metrics for Improved Caption Evaluation.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:421	title:Reinforced Extractive Summarization with Question-Focused Rewards.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:422	title:Automatic Spelling Correction for Resource-Scarce Languages using Deep Learning.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:423	title:Trick Me If You Can: Adversarial Writing of Trivia Challenge Questions.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:424	title:Pushing the Limits of Radiology with Joint Modeling of Visual and Textual Information.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:425	title:SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:426	title:Unsupervised Semantic Abstractive Summarization.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:427	title:BCSAT : A Benchmark Corpus for Sentiment Analysis in Telugu Using Word-level Annotations.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:428	title:Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets.	abstract:	link:	image:http://www.bing.com/	layer:3
+id:429	title:Sampling Informative Training Data for RNN Language Models.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:430	title:Automatic Detection of Cross-Disciplinary Knowledge Associations.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:431	title:A Computational Approach to Feature Extraction for Identification of Suicidal Ideation in Tweets.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:432	title:Automatic Question Generation using Relative Pronouns and Adverbs.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:433	title:Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:434	title:Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation.	abstract:	link:	image:http://www.bing.com/	layer:1
+id:435	title:Biomedical Document Retrieval for Clinical Decision Support System.	abstract:	link:	image:http://www.bing.com/	layer:2
+id:436	title:German and French Neural Supertagging Experiments for LTAG Parsing.	abstract:	link:	image:http://www.bing.com/	layer:4
+id:437	title:Recognizing Complex Entity Mentions: A Review and Future Directions.	abstract:	link:	image:http://www.bing.com/	layer:2
