@@ -35,8 +35,9 @@ for t=1:Ndocs
         absmeta{t}=titles{t};
     end
     if includeAbstracts
-        absmeta{t}=[ absmeta{t},' ',abstracts{t},' ###docend### '];
+        absmeta{t}=[ absmeta{t},' ',abstracts{t}];
     end 
+    absmeta{t}=[ absmeta{t},' ###docend### '];
     absmeta{t}(absmeta{t}<33)=' '; absmeta{t}(absmeta{t}>126)=' ';
 end
 
